@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T05:27:46Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5301
+            "stars": 5302
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:05:22Z",
+            "last_commit": "2026-08-13T21:00:21Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 632
+            "stars": 634
           }
         },
         {
@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:05:22Z",
+            "last_commit": "2026-08-13T21:00:21Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 632
+            "stars": 634
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2025-11-21T02:53:10Z",
             "owner": "prefrontal-systems",
             "repo": "zed-quarto-plugin",
-            "stars": 18
+            "stars": 19
           }
         }
       ],
@@ -275,7 +275,7 @@
             "last_commit": "2026-06-24T10:38:44Z",
             "owner": "Pakillo",
             "repo": "grateful",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2025-12-08T22:46:07Z",
             "owner": "machow",
             "repo": "quartodoc",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -452,10 +452,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:32:41Z",
+            "last_commit": "2026-08-13T20:35:59Z",
             "owner": "posit-dev",
             "repo": "great-docs",
-            "stars": 257
+            "stars": 259
           }
         },
         {
@@ -534,10 +534,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:16:57Z",
+            "last_commit": "2026-08-13T21:26:11Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5908
+            "stars": 5921
           }
         },
         {
@@ -548,10 +548,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T22:49:28Z",
+            "last_commit": "2026-08-13T08:45:21Z",
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1413
+            "stars": 1414
           }
         },
         {
@@ -562,7 +562,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-11T08:26:45Z",
+            "last_commit": "2026-08-14T04:49:09Z",
             "owner": "ltex-plus",
             "repo": "ltex-ls-plus",
             "stars": 251
@@ -576,10 +576,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T05:52:38Z",
+            "last_commit": "2026-08-13T21:05:50Z",
             "owner": "jolars",
             "repo": "panache",
-            "stars": 206
+            "stars": 208
           }
         },
         {
@@ -593,7 +593,7 @@
             "last_commit": "2026-08-11T20:11:57Z",
             "owner": "posit-dev",
             "repo": "brand-yml",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -666,7 +666,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-05T17:42:34Z",
+            "last_commit": "2026-08-13T18:27:29Z",
             "owner": "posit-dev",
             "repo": "skills",
             "stars": 469
@@ -955,7 +955,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T21:41:07Z",
+            "last_commit": "2026-08-13T19:25:09Z",
             "owner": "quarto-dev",
             "repo": "quarto-web",
             "stars": 400
@@ -1123,7 +1123,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-06-25T08:43:41Z",
+            "last_commit": "2026-08-13T08:43:53Z",
             "owner": "skriptum",
             "repo": "quarto-pressmark",
             "stars": 9
@@ -1137,7 +1137,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:18:40Z",
+            "last_commit": "2026-08-13T15:10:21Z",
             "owner": "noahweidig",
             "repo": "noahweidig.github.io",
             "stars": 4
@@ -1174,7 +1174,7 @@
             "last_commit": "2025-10-17T13:19:14Z",
             "owner": "wesm",
             "repo": "pydata-book",
-            "stars": 24814
+            "stars": 24813
           }
         },
         {
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T07:45:31Z",
+            "last_commit": "2026-08-13T07:44:39Z",
             "owner": "hadley",
             "repo": "r-pkgs",
             "stars": 951
@@ -1255,10 +1255,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:36:35Z",
+            "last_commit": "2026-08-13T23:37:04Z",
             "owner": "mine-cetinkaya-rundel",
             "repo": "quarto-tdg",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1324,7 +1324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:05:14.827Z",
+    "last_updated": "2026-08-14T06:04:14.307Z",
     "original_repository": "mcanouil/awesome-quarto",
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",
     "enhanced_repository": "enhansome/enhansome-quarto",
