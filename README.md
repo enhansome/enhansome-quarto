@@ -189,7 +189,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 * [R](https://github.com/quarto-dev/quarto-r) ⭐ 161 | 🐛 41 | 🌐 R | 📅 2026-05-21 - Interface package for [R](https://www.r-project.org/) to Quarto CLI.
 * [altdoc](https://github.com/etiennebacher/altdoc) ⭐ 85 | 🐛 22 | 🌐 R | 📅 2026-07-07 - Alternative to pkgdown to document R packages.
 * [quartostamp](https://github.com/matt-dray/quartostamp) ⭐ 62 | 🐛 9 | 🌐 R | 📅 2026-08-11 - An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` document.
-* [ir](https://github.com/r-lib/ir) ⭐ 59 | 🐛 9 | 🌐 Rust | 📅 2026-08-13 - A minimal R script runner that manages reproducible environments from dependencies declared in script frontmatter, with support for Quarto documents via the `ir` YAML key.
+* [ir](https://github.com/r-lib/ir) ⭐ 60 | 🐛 9 | 🌐 Rust | 📅 2026-08-13 - A minimal R script runner that manages reproducible environments from dependencies declared in script frontmatter, with support for Quarto documents via the `ir` YAML key.
 * [plume](https://github.com/arnaudgallou/plume/) ⭐ 23 | 🐛 3 | 🌐 R | 📅 2026-01-03 - Allows you to generate or inject author information into Quarto from tabular data.
 * [rd2qmd](https://github.com/eitsupi/rd2qmd) ⭐ 17 | 🐛 2 | 🌐 Rust | 📅 2026-08-16 - A fast Rd to Quarto Markdown converter written in Rust, with cross-package link resolution for building reference sites.
 * [pakret](https://github.com/arnaudgallou/pakret/) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2026-04-15 - Lets you insert individual, preformatted citations for R and R packages directly inside an R Markdown or Quarto document as you write.
@@ -217,10 +217,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Miscellaneous
 
-* [vale](https://github.com/vale-cli/vale) ⭐ 5,966 | 🐛 35 | 🌐 Go | 📅 2026-08-14 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,435 | 🐛 7 | 🌐 Rust | 📅 2026-08-18 - Markdown linter and formatter written in Rust.
-* [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) ⭐ 252 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-19 - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
-* [Panache](https://github.com/jolars/panache) ⭐ 208 | 🐛 7 | 🌐 Rust | 📅 2026-08-18 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
+* [vale](https://github.com/vale-cli/vale) ⭐ 5,968 | 🐛 36 | 🌐 Go | 📅 2026-08-14 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,436 | 🐛 8 | 🌐 Rust | 📅 2026-08-19 - Markdown linter and formatter written in Rust.
+* [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) ⭐ 253 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-19 - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
+* [Panache](https://github.com/jolars/panache) ⭐ 208 | 🐛 5 | 🌐 Rust | 📅 2026-08-19 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
 * [brand.yml](https://github.com/posit-dev/brand-yml) ⭐ 110 | 🐛 37 | 🌐 Python | 📅 2026-08-11 - A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, `revealjs`, and Typst formats.
 * [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) ⭐ 28 | 🐛 6 | 🌐 Rust | 📅 2022-10-07 - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 * [Quartize](https://github.com/hrbrmstr/reveal-qmd) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2022-08-22 - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
@@ -293,10 +293,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,834 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,142 | 🐛 25 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,835 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,143 | 🐛 25 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
 * [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-18 - "R Packages" book second edition (see <https://r-pkgs.org/>).
-* [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 281 | 🐛 20 | 🌐 TeX | 📅 2026-08-17 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
+* [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 281 | 🐛 20 | 🌐 TeX | 📅 2026-08-19 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Applied Machine Learning for Tabular Data](https://github.com/aml4td/website) ⭐ 169 | 🐛 28 | 🌐 TeX | 📅 2026-08-17 - An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see <https://aml4td.org/>).
 * [Quarto for Scientists](https://github.com/njtierney/qmd4sci) ⭐ 70 | 🐛 20 | 🌐 TeX | 📅 2026-07-08 - A living book teaching scientists to write reproducible reports with Quarto (see <https://qmd4sci.njtierney.com/>).
 * [Quarto: The Practical Guide](https://github.com/mine-cetinkaya-rundel/quarto-tdg) ⭐ 61 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-18 - A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see <https://quarto-tdg.org/>).

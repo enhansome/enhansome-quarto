@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533488953,
             "language": "HTML",
             "last_commit": "2026-07-14T17:42:42Z",
             "owner": "UCSB-MEDS",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742970336,
             "language": "JavaScript",
             "last_commit": "2024-06-25T23:18:41Z",
             "owner": "jadeynryan",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890090059,
             "language": "JavaScript",
             "last_commit": "2024-11-21T17:13:25Z",
             "owner": "qmd-lab",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504203767,
             "language": "JavaScript",
             "last_commit": "2022-09-16T12:10:06Z",
             "owner": "WarwickCIM",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545380705,
             "language": "JavaScript",
             "last_commit": "2022-11-26T20:45:18Z",
             "owner": "perezp44",
@@ -77,7 +82,7 @@
       "title": "Tutorials & workshops"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222507066,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T09:18:18Z",
             "owner": "AnswerDotAI",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458335993,
             "language": "HTML",
             "last_commit": "2022-08-08T17:16:01Z",
             "owner": "mine-cetinkaya-rundel",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 882713244,
             "language": "Python",
             "last_commit": "2024-11-19T20:42:46Z",
             "owner": "KeithGalli",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542121633,
             "language": "HTML",
             "last_commit": "2022-10-30T14:56:21Z",
             "owner": "jthomasmock",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555944318,
             "language": "HTML",
             "last_commit": "2022-10-28T00:52:01Z",
             "owner": "ivelasq",
@@ -153,7 +163,7 @@
       "title": "Talks and videos"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561326180,
             "language": "TypeScript",
             "last_commit": "2026-08-18T22:05:43Z",
             "owner": "quarto-dev",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561326180,
             "language": "TypeScript",
             "last_commit": "2026-08-18T22:05:43Z",
             "owner": "quarto-dev",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517434189,
             "language": "Lua",
             "last_commit": "2026-04-22T11:07:06Z",
             "owner": "quarto-dev",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457421531,
             "language": "Emacs Lisp",
             "last_commit": "2024-01-05T11:11:43Z",
             "owner": "quarto-dev",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457339845,
             "language": "Vim Script",
             "last_commit": "2026-01-27T16:49:47Z",
             "owner": "quarto-dev",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457155845,
             "language": null,
             "last_commit": "2022-03-14T00:19:24Z",
             "owner": "quarto-dev",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100977876,
             "language": "Tree-sitter Query",
             "last_commit": "2025-11-21T02:53:10Z",
             "owner": "prefrontal-systems",
@@ -257,406 +274,438 @@
       "title": "Supported editors"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grateful",
+              "description": "Scans your whole project and produces a BibTex file with citations for all the R packages used.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99728404,
+                "language": "R",
+                "last_commit": "2026-08-17T08:24:14Z",
+                "owner": "Pakillo",
+                "repo": "grateful",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R",
+              "description": "Interface package for R to Quarto CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335411552,
+                "language": "R",
+                "last_commit": "2026-05-21T11:44:57Z",
+                "owner": "quarto-dev",
+                "repo": "quarto-r",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "altdoc",
+              "description": "Alternative to pkgdown to document R packages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399876738,
+                "language": "R",
+                "last_commit": "2026-07-07T18:35:29Z",
+                "owner": "etiennebacher",
+                "repo": "altdoc",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quartostamp",
+              "description": "An R package containing an RStudio Addin to insert some useful divs and classes into your Quarto document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 521611568,
+                "language": "R",
+                "last_commit": "2026-08-11T15:42:11Z",
+                "owner": "matt-dray",
+                "repo": "quartostamp",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ir",
+              "description": "A minimal R script runner that manages reproducible environments from dependencies declared in script frontmatter, with support for Quarto documents via the YAML key.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257456632,
+                "language": "Rust",
+                "last_commit": "2026-08-13T02:40:15Z",
+                "owner": "r-lib",
+                "repo": "ir",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plume",
+              "description": "Allows you to generate or inject author information into Quarto from tabular data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616738318,
+                "language": "R",
+                "last_commit": "2026-01-03T23:01:28Z",
+                "owner": "arnaudgallou",
+                "repo": "plume",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rd2qmd",
+              "description": "A fast Rd to Quarto Markdown converter written in Rust, with cross-package link resolution for building reference sites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141632751,
+                "language": "Rust",
+                "last_commit": "2026-08-16T21:55:21Z",
+                "owner": "eitsupi",
+                "repo": "rd2qmd",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pakret",
+              "description": "Lets you insert individual, preformatted citations for R and R packages directly inside an R Markdown or Quarto document as you write.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832094824,
+                "language": "R",
+                "last_commit": "2026-04-15T10:25:14Z",
+                "owner": "arnaudgallou",
+                "repo": "pakret",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QuartoNotebookRunner",
+              "description": "The native Julia notebook engine used by Quarto to execute Julia code without requiring Jupyter or IJulia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739423552,
+                "language": "Julia",
+                "last_commit": "2026-08-18T10:09:33Z",
+                "owner": "PumasAI",
+                "repo": "QuartoNotebookRunner.jl",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Julia",
+              "description": "Interface package for Julia to Quarto CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338026679,
+                "language": "Julia",
+                "last_commit": "2021-05-22T12:12:02Z",
+                "owner": "quarto-dev",
+                "repo": "quarto-julia",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocumenterQuarto",
+              "description": "A Julia package to generate documentation for Julia packages using Quarto and Documenter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786302865,
+                "language": "Julia",
+                "last_commit": "2025-10-25T20:04:51Z",
+                "owner": "jdc-pub",
+                "repo": "DocumenterQuarto.jl",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "quartodoc",
+              "description": "A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561901793,
+                "language": "Python",
+                "last_commit": "2025-12-08T22:46:07Z",
+                "owner": "machow",
+                "repo": "quartodoc",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "great-docs",
+              "description": "Package from Posit that can be used to automatically generate a documentation site for a Python site, with a landing page, API reference and CLI reference, using Quarto as the rendering engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1099225867,
+                "language": "Python",
+                "last_commit": "2026-08-18T01:00:38Z",
+                "owner": "posit-dev",
+                "repo": "great-docs",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "Interface package for Python to Quarto CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335619152,
+                "language": "Python",
+                "last_commit": "2025-05-28T06:19:35Z",
+                "owner": "quarto-dev",
+                "repo": "quarto-python",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lintquarto",
+              "description": "Python package for running linters, static type checkers and code analysis tools on Python code in Quarto files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1007669496,
+                "language": "Python",
+                "last_commit": "2026-07-07T13:15:36Z",
+                "owner": "lintquarto",
+                "repo": "lintquarto",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quarto Wizard",
+              "description": "A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 889212358,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T10:51:07Z",
+                "owner": "mcanouil",
+                "repo": "quarto-wizard",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto Wingman",
+              "description": "A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 966355240,
+                "language": "TypeScript",
+                "last_commit": "2026-07-16T14:47:40Z",
+                "owner": "ntluong95",
+                "repo": "quarto-wingman",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vale",
+              "description": "Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81020247,
+                "language": "Go",
+                "last_commit": "2026-08-14T16:13:44Z",
+                "owner": "vale-cli",
+                "repo": "vale",
+                "stars": 5968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rumdl",
+              "description": "Markdown linter and formatter written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940812004,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:54:10Z",
+                "owner": "rvben",
+                "repo": "rumdl",
+                "stars": 1436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LTeX+",
+              "description": "A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843563460,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T03:46:55Z",
+                "owner": "ltex-plus",
+                "repo": "ltex-ls-plus",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Panache",
+              "description": "A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1049639719,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:08:08Z",
+                "owner": "jolars",
+                "repo": "panache",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brand.yml",
+              "description": "A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, , and Typst formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775109788,
+                "language": "Python",
+                "last_commit": "2026-08-11T20:11:57Z",
+                "owner": "posit-dev",
+                "repo": "brand-yml",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ohq2quarto",
+              "description": "A Rust-based command line utility to turn any ObservableHQ notebook into a Quarto project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526724365,
+                "language": "Rust",
+                "last_commit": "2022-10-07T10:41:20Z",
+                "owner": "hrbrmstr",
+                "repo": "ohq2quarto",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quartize",
+              "description": "A Chrome extension to transform any ObservableHQ notebook into a list of downloadable s and an in-page Quarto source document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527236325,
+                "language": "JavaScript",
+                "last_commit": "2022-08-22T07:48:45Z",
+                "owner": "hrbrmstr",
+                "repo": "reveal-qmd",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matrix BOT",
+              "description": "A little bot for the matrix-network that listens for some Quarto files and returns the PDF into the matrix channel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541795255,
+                "language": "Python",
+                "last_commit": "2022-09-29T09:27:51Z",
+                "owner": "rgomez90",
+                "repo": "matrix-bot",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loom-lsp",
+              "description": "A rust-based language server for Quarto documents, allowing IDE support for different languages within the same document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190671335,
+                "language": "Rust",
+                "last_commit": "2026-07-04T12:14:56Z",
+                "owner": "PMassicotte",
+                "repo": "loom-lsp",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
       "title": "Libraries/Packages/Scripts"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grateful",
-          "description": "Scans your whole project and produces a BibTex file with citations for all the R packages used.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-17T08:24:14Z",
-            "owner": "Pakillo",
-            "repo": "grateful",
-            "stars": 242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R",
-          "description": "Interface package for R to Quarto CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-21T11:44:57Z",
-            "owner": "quarto-dev",
-            "repo": "quarto-r",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "altdoc",
-          "description": "Alternative to pkgdown to document R packages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-07T18:35:29Z",
-            "owner": "etiennebacher",
-            "repo": "altdoc",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quartostamp",
-          "description": "An R package containing an RStudio Addin to insert some useful divs and classes into your Quarto document.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-11T15:42:11Z",
-            "owner": "matt-dray",
-            "repo": "quartostamp",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ir",
-          "description": "A minimal R script runner that manages reproducible environments from dependencies declared in script frontmatter, with support for Quarto documents via the YAML key.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T02:40:15Z",
-            "owner": "r-lib",
-            "repo": "ir",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "plume",
-          "description": "Allows you to generate or inject author information into Quarto from tabular data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-01-03T23:01:28Z",
-            "owner": "arnaudgallou",
-            "repo": "plume",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rd2qmd",
-          "description": "A fast Rd to Quarto Markdown converter written in Rust, with cross-package link resolution for building reference sites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T21:55:21Z",
-            "owner": "eitsupi",
-            "repo": "rd2qmd",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pakret",
-          "description": "Lets you insert individual, preformatted citations for R and R packages directly inside an R Markdown or Quarto document as you write.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-04-15T10:25:14Z",
-            "owner": "arnaudgallou",
-            "repo": "pakret",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "R"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "QuartoNotebookRunner",
-          "description": "The native Julia notebook engine used by Quarto to execute Julia code without requiring Jupyter or IJulia.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-08-18T10:09:33Z",
-            "owner": "PumasAI",
-            "repo": "QuartoNotebookRunner.jl",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Julia",
-          "description": "Interface package for Julia to Quarto CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2021-05-22T12:12:02Z",
-            "owner": "quarto-dev",
-            "repo": "quarto-julia",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DocumenterQuarto",
-          "description": "A Julia package to generate documentation for Julia packages using Quarto and Documenter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2025-10-25T20:04:51Z",
-            "owner": "jdc-pub",
-            "repo": "DocumenterQuarto.jl",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Julia"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "quartodoc",
-          "description": "A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-08T22:46:07Z",
-            "owner": "machow",
-            "repo": "quartodoc",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "great-docs",
-          "description": "Package from Posit that can be used to automatically generate a documentation site for a Python site, with a landing page, API reference and CLI reference, using Quarto as the rendering engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T01:00:38Z",
-            "owner": "posit-dev",
-            "repo": "great-docs",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": "Interface package for Python to Quarto CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-28T06:19:35Z",
-            "owner": "quarto-dev",
-            "repo": "quarto-python",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lintquarto",
-          "description": "Python package for running linters, static type checkers and code analysis tools on Python code in Quarto files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-07T13:15:36Z",
-            "owner": "lintquarto",
-            "repo": "lintquarto",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quarto Wizard",
-          "description": "A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T10:51:07Z",
-            "owner": "mcanouil",
-            "repo": "quarto-wizard",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto Wingman",
-          "description": "A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-16T14:47:40Z",
-            "owner": "ntluong95",
-            "repo": "quarto-wingman",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vale",
-          "description": "Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T16:13:44Z",
-            "owner": "vale-cli",
-            "repo": "vale",
-            "stars": 5966
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rumdl",
-          "description": "Markdown linter and formatter written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T18:46:28Z",
-            "owner": "rvben",
-            "repo": "rumdl",
-            "stars": 1435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LTeX+",
-          "description": "A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-19T03:46:55Z",
-            "owner": "ltex-plus",
-            "repo": "ltex-ls-plus",
-            "stars": 252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Panache",
-          "description": "A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:19:12Z",
-            "owner": "jolars",
-            "repo": "panache",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brand.yml",
-          "description": "A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, , and Typst formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T20:11:57Z",
-            "owner": "posit-dev",
-            "repo": "brand-yml",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ohq2quarto",
-          "description": "A Rust-based command line utility to turn any ObservableHQ notebook into a Quarto project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-10-07T10:41:20Z",
-            "owner": "hrbrmstr",
-            "repo": "ohq2quarto",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quartize",
-          "description": "A Chrome extension to transform any ObservableHQ notebook into a list of downloadable s and an in-page Quarto source document.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-22T07:48:45Z",
-            "owner": "hrbrmstr",
-            "repo": "reveal-qmd",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "matrix BOT",
-          "description": "A little bot for the matrix-network that listens for some Quarto files and returns the PDF into the matrix channel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-29T09:27:51Z",
-            "owner": "rgomez90",
-            "repo": "matrix-bot",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "loom-lsp",
-          "description": "A rust-based language server for Quarto documents, allowing IDE support for different languages within the same document.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-04T12:14:56Z",
-            "owner": "PMassicotte",
-            "repo": "loom-lsp",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -665,6 +714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1101373353,
             "language": "R",
             "last_commit": "2026-08-17T19:44:02Z",
             "owner": "posit-dev",
@@ -679,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589978537,
             "language": "R",
             "last_commit": "2026-07-15T15:12:45Z",
             "owner": "ropensci-review-tools",
@@ -693,6 +744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159946186,
             "language": null,
             "last_commit": "2026-02-26T14:23:14Z",
             "owner": "stephenturner",
@@ -707,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1301567158,
             "language": "SCSS",
             "last_commit": "2026-07-15T21:17:23Z",
             "owner": "alfredo-hs",
@@ -718,7 +771,7 @@
       "title": "AI & LLMs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -727,6 +780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404683788,
             "language": "PowerShell",
             "last_commit": "2026-08-17T00:22:08Z",
             "owner": "quarto-dev",
@@ -741,6 +795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540695187,
             "language": "Shell",
             "last_commit": "2026-08-09T06:56:58Z",
             "owner": "rocker-org",
@@ -755,6 +810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079255846,
             "language": "TypeScript",
             "last_commit": "2026-08-08T10:53:25Z",
             "owner": "mcanouil",
@@ -766,566 +822,599 @@
       "title": "Continuous integration / Continuous deployment"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Iframes Gallery",
+              "description": "A gallery of iframes that could be used in Quarto format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572279573,
+                "language": "JavaScript",
+                "last_commit": "2024-06-05T18:21:51Z",
+                "owner": "EmilHvitfeldt",
+                "repo": "quarto-iframe-examples",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Outrageously efficient EDA",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499391891,
+                "language": "HTML",
+                "last_commit": "2022-06-03T16:46:27Z",
+                "owner": "jthomasmock",
+                "repo": "arrow-dplyr",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Streamlining with R",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228257572,
+                "language": "HTML",
+                "last_commit": "2024-08-14T19:07:40Z",
+                "owner": "meghall06",
+                "repo": "personal-website",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The untold story of palmerpenguins",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504294962,
+                "language": "HTML",
+                "last_commit": "2022-06-21T14:57:34Z",
+                "owner": "apreshill",
+                "repo": "palmerpenguins-useR-2022",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An anthology of experimental designs",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138098173,
+                "language": "JavaScript",
+                "last_commit": "2022-12-01T06:18:43Z",
+                "owner": "emitanaka",
+                "repo": "talks",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478861660,
+                "language": "JavaScript",
+                "last_commit": "2022-05-24T04:27:43Z",
+                "owner": "jimjam-slam",
+                "repo": "talk-runapp-quarto-2022",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An educator's perspective of the tidyverse",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474972487,
+                "language": "HTML",
+                "last_commit": "2022-11-07T14:29:16Z",
+                "owner": "mine-cetinkaya-rundel",
+                "repo": "tidyperspective",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improvements in textrecipes",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506545164,
+                "language": "HTML",
+                "last_commit": "2025-08-23T03:26:10Z",
+                "owner": "EmilHvitfeldt",
+                "repo": "talk-useR2022-textrecipes",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creating Stunning Presentations with Quarto",
+              "description": "A JSM talk on designing custom themes, itself built as a showcase deck with custom SCSS and fonts (See slides).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 838171093,
+                "language": "JavaScript",
+                "last_commit": "2025-05-28T08:09:32Z",
+                "owner": "EmilHvitfeldt",
+                "repo": "talk-jsm-stunning-presentations",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Advanced Introduction to R (French)",
+              "description": "See slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311420140,
+                "language": "Lua",
+                "last_commit": "2026-08-07T21:29:21Z",
+                "owner": "mcanouil",
+                "repo": "radvanced",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Continental-scale biodiversity data assessment using the Atlas of Living Australia",
+              "description": "Slides for Victorian Biodiversity Conference 2023 (See slides).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575699870,
+                "language": "HTML",
+                "last_commit": "2023-02-08T08:28:23Z",
+                "owner": "shandiya",
+                "repo": "VicBioCon2023",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Presentations formats"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Documentation website from Jupyter Notebook",
+              "description": "Quarto used to generate a website from a Jupyter notebook containing Python module documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402182460,
+                "language": "Python",
+                "last_commit": "2026-08-10T05:24:50Z",
+                "owner": "aeturrell",
+                "repo": "skimpy",
+                "stars": 517
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quarto.org",
+              "description": "The Quarto documentation website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347633358,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T16:27:00Z",
+                "owner": "quarto-dev",
+                "repo": "quarto-web",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Andrew Heiss's website",
+              "description": "Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571376677,
+                "language": "HTML",
+                "last_commit": "2026-07-29T18:49:22Z",
+                "owner": "andrewheiss",
+                "repo": "ath-quarto",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R-Manuals",
+              "description": "R Manuals rewritten with Quarto.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442501979,
+                "language": "R",
+                "last_commit": "2026-07-12T20:45:05Z",
+                "owner": "rstudio",
+                "repo": "r-manuals",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto tip a day",
+              "description": "Website/blog highlighting a tip for Quarto every day.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498960917,
+                "language": "JavaScript",
+                "last_commit": "2024-12-05T21:17:40Z",
+                "owner": "mine-cetinkaya-rundel",
+                "repo": "quarto-tip-a-day",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Program Evaluation for Public Service (course)",
+              "description": "Website for a graduate-level course on program evaluation and causal inference using R, built with Quarto.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518255523,
+                "language": "HTML",
+                "last_commit": "2022-11-14T18:26:38Z",
+                "owner": "andrewheiss",
+                "repo": "evalf22.classes.andrewheiss.com",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NASCENT-PERU website",
+              "description": "A multi-lingual (English/Spanish) website for a scientific research project using the babelquarto package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627825077,
+                "language": "R",
+                "last_commit": "2026-08-14T14:22:33Z",
+                "owner": "ropensci-review-tools",
+                "repo": "babelquarto",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ella Kaye's website",
+              "description": "Website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520250622,
+                "language": "R",
+                "last_commit": "2026-07-06T18:46:43Z",
+                "owner": "EllaKaye",
+                "repo": "ellakaye.co.uk",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quantum Jitter",
+              "description": "A Quarto website / blog with a custom theme (adapted from flatly / darkly), day / night landing page and a novel 404 page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570199080,
+                "language": "R",
+                "last_commit": "2025-09-25T12:56:47Z",
+                "owner": "cgoo4",
+                "repo": "quantumjitter",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quering with PRQL",
+              "description": "Docusaurus website using computations via and and multiple languages (PRQL, SQL, R, Python, etc.).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623982709,
+                "language": "R",
+                "last_commit": "2025-04-02T22:45:23Z",
+                "owner": "eitsupi",
+                "repo": "querying-with-prql",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R for Social Scientists workshop",
+              "description": "A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517436528,
+                "language": "RMarkdown",
+                "last_commit": "2022-08-11T22:39:55Z",
+                "owner": "SMaRTWorkshops",
+                "repo": "r4ss",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AffCom Lab Website",
+              "description": "A research lab Quarto Blog/website using custom listing pages for people and publications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 558984094,
+                "language": "HTML",
+                "last_commit": "2026-07-13T18:22:46Z",
+                "owner": "jmgirard",
+                "repo": "affcomlab",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bioconductor Community Blog",
+              "description": "A Quarto Blog for the Bioconductor community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425566572,
+                "language": "HTML",
+                "last_commit": "2026-08-18T17:26:51Z",
+                "owner": "Bioconductor",
+                "repo": "biocblog",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto Pressmark",
+              "description": "An elegant, typographic, minimalistic theme for Quarto websites, inspired by newspapers and tufte-css, with curated fonts and extensive custom styling (see https://github.com/skriptum/quarto-pressmark).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194139247,
+                "language": "SCSS",
+                "last_commit": "2026-08-13T08:43:53Z",
+                "owner": "skriptum",
+                "repo": "quarto-pressmark",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Noah Weidig's website",
+              "description": "A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301878770,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T20:36:22Z",
+                "owner": "noahweidig",
+                "repo": "noahweidig.github.io",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Juan Torres Munguía's website",
+              "description": "A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see https://juan-torresmunguia.netlify.app/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939090761,
+                "language": "JavaScript",
+                "last_commit": "2026-06-24T00:39:59Z",
+                "owner": "jatorresmunguia",
+                "repo": "juan-torresmunguia.github.io",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites formats"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python for Data Analysis, 3E",
+              "description": "\"Python for Data Analysis\" book third edition (see https://wesmckinney.com/book/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4844734,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-17T13:19:14Z",
+                "owner": "wesm",
+                "repo": "pydata-book",
+                "stars": 24835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R for Data Science, 2E",
+              "description": "\"R for Data Science\" book second edition (see https://r4ds.hadley.nz/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39799721,
+                "language": "R",
+                "last_commit": "2026-07-18T02:06:45Z",
+                "owner": "hadley",
+                "repo": "r4ds",
+                "stars": 5143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R Packages, 2E",
+              "description": "\"R Packages\" book second edition (see https://r-pkgs.org/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22727910,
+                "language": "R",
+                "last_commit": "2026-08-18T07:27:58Z",
+                "owner": "hadley",
+                "repo": "r-pkgs",
+                "stars": 951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mlr3book",
+              "description": "Book on the packages ecosystem (see https://mlr3book.mlr-org.com/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172917699,
+                "language": "TeX",
+                "last_commit": "2026-08-19T09:51:59Z",
+                "owner": "mlr-org",
+                "repo": "mlr3book",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Applied Machine Learning for Tabular Data",
+              "description": "An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see https://aml4td.org/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721268073,
+                "language": "TeX",
+                "last_commit": "2026-08-17T02:02:09Z",
+                "owner": "aml4td",
+                "repo": "website",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto for Scientists",
+              "description": "A living book teaching scientists to write reproducible reports with Quarto (see https://qmd4sci.njtierney.com/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479177202,
+                "language": "TeX",
+                "last_commit": "2026-07-08T07:31:50Z",
+                "owner": "njtierney",
+                "repo": "qmd4sci",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quarto: The Practical Guide",
+              "description": "A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see https://quarto-tdg.org/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701096770,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T23:17:58Z",
+                "owner": "mine-cetinkaya-rundel",
+                "repo": "quarto-tdg",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Science: Models, Mathematics, and Computation",
+              "description": "Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see https://network-science-notes.github.io/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830712870,
+                "language": "TeX",
+                "last_commit": "2026-05-05T18:19:37Z",
+                "owner": "network-science-notes",
+                "repo": "network-science-notes.github.io",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Book formats"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scrollytelling with Closeread",
+              "description": "A collection of scrollytelling data stories built with the Closeread extension, covering line charts, arc charts, and Gapminder-style animations (see https://nrennie.rbind.io/scrollytelling/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844506542,
+                "language": "JavaScript",
+                "last_commit": "2026-06-01T17:09:03Z",
+                "owner": "nrennie",
+                "repo": "scrollytelling",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub open-source dashboard",
+              "description": "A Quarto dashboard monitoring the health, CRAN status, and weekly activity of a maintainer's open-source projects (see https://schochastics.github.io/gh-dashboard/).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759148986,
+                "language": "HTML",
+                "last_commit": "2026-08-17T07:56:39Z",
+                "owner": "schochastics",
+                "repo": "gh-dashboard",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other formats"
+        }
+      ],
       "title": "Real-life examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Iframes Gallery",
-          "description": "A gallery of iframes that could be used in Quarto format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-05T18:21:51Z",
-            "owner": "EmilHvitfeldt",
-            "repo": "quarto-iframe-examples",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Outrageously efficient EDA",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-06-03T16:46:27Z",
-            "owner": "jthomasmock",
-            "repo": "arrow-dplyr",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Streamlining with R",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-08-14T19:07:40Z",
-            "owner": "meghall06",
-            "repo": "personal-website",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The untold story of palmerpenguins",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-06-21T14:57:34Z",
-            "owner": "apreshill",
-            "repo": "palmerpenguins-useR-2022",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An anthology of experimental designs",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-01T06:18:43Z",
-            "owner": "emitanaka",
-            "repo": "talks",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto: Create Beautiful Documents with R, Python, Julia and Observable (Runapp 2022 talk)",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-24T04:27:43Z",
-            "owner": "jimjam-slam",
-            "repo": "talk-runapp-quarto-2022",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "An educator's perspective of the tidyverse",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-11-07T14:29:16Z",
-            "owner": "mine-cetinkaya-rundel",
-            "repo": "tidyperspective",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improvements in textrecipes",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-08-23T03:26:10Z",
-            "owner": "EmilHvitfeldt",
-            "repo": "talk-useR2022-textrecipes",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creating Stunning Presentations with Quarto",
-          "description": "A JSM talk on designing custom themes, itself built as a showcase deck with custom SCSS and fonts (See slides).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-28T08:09:32Z",
-            "owner": "EmilHvitfeldt",
-            "repo": "talk-jsm-stunning-presentations",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Advanced Introduction to R (French)",
-          "description": "See slides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-07T21:29:21Z",
-            "owner": "mcanouil",
-            "repo": "radvanced",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continental-scale biodiversity data assessment using the Atlas of Living Australia",
-          "description": "Slides for Victorian Biodiversity Conference 2023 (See slides).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-02-08T08:28:23Z",
-            "owner": "shandiya",
-            "repo": "VicBioCon2023",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Presentations formats"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Documentation website from Jupyter Notebook",
-          "description": "Quarto used to generate a website from a Jupyter notebook containing Python module documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T05:24:50Z",
-            "owner": "aeturrell",
-            "repo": "skimpy",
-            "stars": 517
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quarto.org",
-          "description": "The Quarto documentation website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T16:27:00Z",
-            "owner": "quarto-dev",
-            "repo": "quarto-web",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Andrew Heiss's website",
-          "description": "Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-29T18:49:22Z",
-            "owner": "andrewheiss",
-            "repo": "ath-quarto",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R-Manuals",
-          "description": "R Manuals rewritten with Quarto.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-12T20:45:05Z",
-            "owner": "rstudio",
-            "repo": "r-manuals",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto tip a day",
-          "description": "Website/blog highlighting a tip for Quarto every day.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-05T21:17:40Z",
-            "owner": "mine-cetinkaya-rundel",
-            "repo": "quarto-tip-a-day",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Program Evaluation for Public Service (course)",
-          "description": "Website for a graduate-level course on program evaluation and causal inference using R, built with Quarto.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-11-14T18:26:38Z",
-            "owner": "andrewheiss",
-            "repo": "evalf22.classes.andrewheiss.com",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NASCENT-PERU website",
-          "description": "A multi-lingual (English/Spanish) website for a scientific research project using the babelquarto package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-14T14:22:33Z",
-            "owner": "ropensci-review-tools",
-            "repo": "babelquarto",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ella Kaye's website",
-          "description": "Website with Bootstrap Grid card home page layout, CSS animation in navigation bar, and light/dark mode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-06T18:46:43Z",
-            "owner": "EllaKaye",
-            "repo": "ellakaye.co.uk",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quantum Jitter",
-          "description": "A Quarto website / blog with a custom theme (adapted from flatly / darkly), day / night landing page and a novel 404 page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-09-25T12:56:47Z",
-            "owner": "cgoo4",
-            "repo": "quantumjitter",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quering with PRQL",
-          "description": "Docusaurus website using computations via and and multiple languages (PRQL, SQL, R, Python, etc.).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-04-02T22:45:23Z",
-            "owner": "eitsupi",
-            "repo": "querying-with-prql",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R for Social Scientists workshop",
-          "description": "A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "RMarkdown",
-            "last_commit": "2022-08-11T22:39:55Z",
-            "owner": "SMaRTWorkshops",
-            "repo": "r4ss",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AffCom Lab Website",
-          "description": "A research lab Quarto Blog/website using custom listing pages for people and publications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-13T18:22:46Z",
-            "owner": "jmgirard",
-            "repo": "affcomlab",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bioconductor Community Blog",
-          "description": "A Quarto Blog for the Bioconductor community.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-18T17:26:51Z",
-            "owner": "Bioconductor",
-            "repo": "biocblog",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto Pressmark",
-          "description": "An elegant, typographic, minimalistic theme for Quarto websites, inspired by newspapers and tufte-css, with curated fonts and extensive custom styling (see https://github.com/skriptum/quarto-pressmark).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2026-08-13T08:43:53Z",
-            "owner": "skriptum",
-            "repo": "quarto-pressmark",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Noah Weidig's website",
-          "description": "A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T20:36:22Z",
-            "owner": "noahweidig",
-            "repo": "noahweidig.github.io",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Juan Torres Munguía's website",
-          "description": "A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see https://juan-torresmunguia.netlify.app/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-24T00:39:59Z",
-            "owner": "jatorresmunguia",
-            "repo": "juan-torresmunguia.github.io",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Websites formats"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python for Data Analysis, 3E",
-          "description": "\"Python for Data Analysis\" book third edition (see https://wesmckinney.com/book/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-10-17T13:19:14Z",
-            "owner": "wesm",
-            "repo": "pydata-book",
-            "stars": 24834
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R for Data Science, 2E",
-          "description": "\"R for Data Science\" book second edition (see https://r4ds.hadley.nz/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-18T02:06:45Z",
-            "owner": "hadley",
-            "repo": "r4ds",
-            "stars": 5142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R Packages, 2E",
-          "description": "\"R Packages\" book second edition (see https://r-pkgs.org/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-18T07:27:58Z",
-            "owner": "hadley",
-            "repo": "r-pkgs",
-            "stars": 951
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mlr3book",
-          "description": "Book on the packages ecosystem (see https://mlr3book.mlr-org.com/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-08-17T18:51:38Z",
-            "owner": "mlr-org",
-            "repo": "mlr3book",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Applied Machine Learning for Tabular Data",
-          "description": "An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see https://aml4td.org/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-08-17T02:02:09Z",
-            "owner": "aml4td",
-            "repo": "website",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto for Scientists",
-          "description": "A living book teaching scientists to write reproducible reports with Quarto (see https://qmd4sci.njtierney.com/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-07-08T07:31:50Z",
-            "owner": "njtierney",
-            "repo": "qmd4sci",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quarto: The Practical Guide",
-          "description": "A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see https://quarto-tdg.org/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T23:17:58Z",
-            "owner": "mine-cetinkaya-rundel",
-            "repo": "quarto-tdg",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Network Science: Models, Mathematics, and Computation",
-          "description": "Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see https://network-science-notes.github.io/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-05-05T18:19:37Z",
-            "owner": "network-science-notes",
-            "repo": "network-science-notes.github.io",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Book formats"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Scrollytelling with Closeread",
-          "description": "A collection of scrollytelling data stories built with the Closeread extension, covering line charts, arc charts, and Gapminder-style animations (see https://nrennie.rbind.io/scrollytelling/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-01T17:09:03Z",
-            "owner": "nrennie",
-            "repo": "scrollytelling",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub open-source dashboard",
-          "description": "A Quarto dashboard monitoring the health, CRAN status, and weekly activity of a maintainer's open-source projects (see https://schochastics.github.io/gh-dashboard/).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-17T07:56:39Z",
-            "owner": "schochastics",
-            "repo": "gh-dashboard",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Other formats"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:06:57.188Z",
+    "last_updated": "2026-08-19T12:49:19.537Z",
     "original_repository": "mcanouil/awesome-quarto",
+    "original_repository_id": 519771271,
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",
     "enhanced_repository": "enhansome/enhansome-quarto",
     "enhanced_repository_description": null,
