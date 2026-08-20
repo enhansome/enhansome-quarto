@@ -96,7 +96,7 @@
             "last_commit": "2026-08-15T09:18:18Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5305
+            "stars": 5306
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 561326180,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:05:43Z",
+            "last_commit": "2026-08-19T20:18:40Z",
             "owner": "quarto-dev",
             "repo": "quarto",
             "stars": 636
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 561326180,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:05:43Z",
+            "last_commit": "2026-08-19T20:18:40Z",
             "owner": "quarto-dev",
             "repo": "quarto",
             "stars": 636
@@ -362,7 +362,7 @@
                 "archived": false,
                 "id": 616738318,
                 "language": "R",
-                "last_commit": "2026-01-03T23:01:28Z",
+                "last_commit": "2026-08-19T17:43:24Z",
                 "owner": "arnaudgallou",
                 "repo": "plume",
                 "stars": 23
@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 1099225867,
                 "language": "Python",
-                "last_commit": "2026-08-18T01:00:38Z",
+                "last_commit": "2026-08-19T23:17:30Z",
                 "owner": "posit-dev",
                 "repo": "great-docs",
                 "stars": 258
@@ -570,10 +570,10 @@
                 "archived": false,
                 "id": 81020247,
                 "language": "Go",
-                "last_commit": "2026-08-14T16:13:44Z",
+                "last_commit": "2026-08-19T23:39:24Z",
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 5968
+                "stars": 5976
               }
             },
             {
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 940812004,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:54:10Z",
+                "last_commit": "2026-08-19T19:23:25Z",
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1436
+                "stars": 1438
               }
             },
             {
@@ -615,10 +615,10 @@
                 "archived": false,
                 "id": 1049639719,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:08:08Z",
+                "last_commit": "2026-08-19T20:52:14Z",
                 "owner": "jolars",
                 "repo": "panache",
-                "stars": 208
+                "stars": 209
               }
             },
             {
@@ -719,7 +719,7 @@
             "last_commit": "2026-08-17T19:44:02Z",
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -1217,7 +1217,7 @@
                 "archived": false,
                 "id": 1301878770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T20:36:22Z",
+                "last_commit": "2026-08-19T23:30:37Z",
                 "owner": "noahweidig",
                 "repo": "noahweidig.github.io",
                 "stars": 4
@@ -1257,7 +1257,7 @@
                 "last_commit": "2025-10-17T13:19:14Z",
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24835
+                "stars": 24836
               }
             },
             {
@@ -1272,7 +1272,7 @@
                 "last_commit": "2026-07-18T02:06:45Z",
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5143
+                "stars": 5144
               }
             },
             {
@@ -1344,7 +1344,7 @@
                 "archived": false,
                 "id": 701096770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T23:17:58Z",
+                "last_commit": "2026-08-19T23:19:19Z",
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
                 "stars": 61
@@ -1384,7 +1384,7 @@
                 "last_commit": "2026-06-01T17:09:03Z",
                 "owner": "nrennie",
                 "repo": "scrollytelling",
-                "stars": 67
+                "stars": 68
               }
             },
             {
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:19.537Z",
+    "last_updated": "2026-08-20T05:07:45.187Z",
     "original_repository": "mcanouil/awesome-quarto",
     "original_repository_id": 519771271,
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",
