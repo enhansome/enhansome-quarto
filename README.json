@@ -5,6 +5,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Filling a suggestion issue",
+          "description": "(easier).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519771271,
+            "language": null,
+            "last_commit": "2026-08-07T09:37:08Z",
+            "owner": "mcanouil",
+            "repo": "awesome-quarto",
+            "stars": 2166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opening a pull request",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519771271,
+            "language": null,
+            "last_commit": "2026-08-07T09:37:08Z",
+            "owner": "mcanouil",
+            "repo": "awesome-quarto",
+            "stars": 2166
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS",
           "description": "Slides by Samantha Csik about using SASS and CSS to customise HTML Quarto websites (materials: https://github.com/UCSB-MEDS/customizing-quarto-websites).",
           "children": [],
@@ -573,7 +609,7 @@
                 "last_commit": "2026-08-21T07:44:17Z",
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6000
+                "stars": 6003
               }
             },
             {
@@ -588,7 +624,7 @@
                 "last_commit": "2026-08-22T21:36:02Z",
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1445
+                "stars": 1447
               }
             },
             {
@@ -615,7 +651,7 @@
                 "archived": false,
                 "id": 1049639719,
                 "language": "Rust",
-                "last_commit": "2026-08-23T20:29:59Z",
+                "last_commit": "2026-08-24T11:08:44Z",
                 "owner": "jolars",
                 "repo": "panache",
                 "stars": 214
@@ -719,7 +755,7 @@
             "last_commit": "2026-08-17T19:44:02Z",
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 475
+            "stars": 474
           }
         },
         {
@@ -1022,7 +1058,7 @@
                 "archived": false,
                 "id": 347633358,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T16:27:00Z",
+                "last_commit": "2026-08-24T13:18:04Z",
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 400
@@ -1217,7 +1253,7 @@
                 "archived": false,
                 "id": 1301878770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:58:48Z",
+                "last_commit": "2026-08-24T12:22:06Z",
                 "owner": "noahweidig",
                 "repo": "noahweidig.github.io",
                 "stars": 4
@@ -1257,7 +1293,7 @@
                 "last_commit": "2025-10-17T13:19:14Z",
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24842
+                "stars": 24844
               }
             },
             {
@@ -1284,7 +1320,7 @@
                 "archived": false,
                 "id": 22727910,
                 "language": "R",
-                "last_commit": "2026-08-23T07:25:35Z",
+                "last_commit": "2026-08-24T07:36:26Z",
                 "owner": "hadley",
                 "repo": "r-pkgs",
                 "stars": 951
@@ -1299,7 +1335,7 @@
                 "archived": false,
                 "id": 172917699,
                 "language": "TeX",
-                "last_commit": "2026-08-19T09:51:59Z",
+                "last_commit": "2026-08-24T13:30:54Z",
                 "owner": "mlr-org",
                 "repo": "mlr3book",
                 "stars": 282
@@ -1396,7 +1432,7 @@
                 "archived": false,
                 "id": 759148986,
                 "language": "HTML",
-                "last_commit": "2026-08-17T07:56:39Z",
+                "last_commit": "2026-08-24T08:01:15Z",
                 "owner": "schochastics",
                 "repo": "gh-dashboard",
                 "stars": 5
@@ -1412,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:23:38.040Z",
+    "last_updated": "2026-08-24T14:06:54.105Z",
     "original_repository": "mcanouil/awesome-quarto",
     "original_repository_id": 519771271,
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",

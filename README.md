@@ -217,10 +217,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Miscellaneous
 
-* [vale](https://github.com/vale-cli/vale) ⭐ 6,000 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,445 | 🐛 6 | 🌐 Rust | 📅 2026-08-22 - Markdown linter and formatter written in Rust.
+* [vale](https://github.com/vale-cli/vale) ⭐ 6,003 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,447 | 🐛 6 | 🌐 Rust | 📅 2026-08-22 - Markdown linter and formatter written in Rust.
 * [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) ⭐ 253 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-24 - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
-* [Panache](https://github.com/jolars/panache) ⭐ 214 | 🐛 6 | 🌐 Rust | 📅 2026-08-23 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
+* [Panache](https://github.com/jolars/panache) ⭐ 214 | 🐛 4 | 🌐 Rust | 📅 2026-08-24 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
 * [brand.yml](https://github.com/posit-dev/brand-yml) ⭐ 110 | 🐛 37 | 🌐 Python | 📅 2026-08-11 - A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, `revealjs`, and Typst formats.
 * [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) ⭐ 28 | 🐛 6 | 🌐 Rust | 📅 2022-10-07 - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 * [Quartize](https://github.com/hrbrmstr/reveal-qmd) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2022-08-22 - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
@@ -229,7 +229,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## AI & LLMs
 
-* [Quarto Agent Skills](https://github.com/posit-dev/skills) ⭐ 475 | 🐛 17 | 🌐 R | 📅 2026-08-17 - A collection of Claude/Agent Skills from Posit, including Quarto authoring, `brand.yml`, and alt text skills, that extend AI coding agents with Quarto-specific knowledge and workflows; usable from Claude Code, Claude.ai, and other agents (Cursor, Codex, Cline) via `npx skills add`.
+* [Quarto Agent Skills](https://github.com/posit-dev/skills) ⭐ 474 | 🐛 17 | 🌐 R | 📅 2026-08-17 - A collection of Claude/Agent Skills from Posit, including Quarto authoring, `brand.yml`, and alt text skills, that extend AI coding agents with Quarto-specific knowledge and workflows; usable from Claude Code, Claude.ai, and other agents (Cursor, Codex, Cline) via `npx skills add`.
 * [babeldown](https://github.com/ropensci-review-tools/babeldown) ⭐ 30 | 🐛 17 | 🌐 R | 📅 2026-07-15 - An R package that uses DeepL machine translation to translate multilingual Quarto books and websites built with `babelquarto`.
 * [Quarto Brand.yml Skill](https://github.com/stephenturner/skill-brand-yml) ⭐ 7 | 🐛 0 | 📅 2026-02-26 - A Claude Code skill that generates and edits `_brand.yml` files for consistent Quarto document branding by Stephen Turner.
 * [Quarto Talks](https://github.com/alfredo-hs/quarto-talks) ⭐ 7 | 🐛 0 | 🌐 SCSS | 📅 2026-07-15 - An agent skill and `revealjs` template for turning research papers into Quarto presentations with AI coding agents.
@@ -268,7 +268,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Websites formats
 
 * [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 517 | 🐛 18 | 🌐 Python | 📅 2026-08-10 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
-* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 400 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-17 - The Quarto documentation website.
+* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 400 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-24 - The Quarto documentation website.
 * [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) ⭐ 163 | 🐛 4 | 🌐 HTML | 📅 2026-07-29 - Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
 * [R-Manuals](https://github.com/rstudio/r-manuals) ⭐ 100 | 🐛 0 | 🌐 R | 📅 2026-07-12 - R Manuals rewritten with Quarto.
 * [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) ⭐ 89 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 - Website/blog highlighting a tip for Quarto every day.
@@ -281,7 +281,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 * [AffCom Lab Website](https://github.com/jmgirard/affcomlab) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2026-07-13 - A research lab Quarto Blog/website using custom listing pages for people and publications.
 * [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) ⭐ 17 | 🐛 7 | 🌐 HTML | 📅 2026-08-21 - A Quarto Blog for the Bioconductor community.
 * [Quarto Pressmark](https://mdwm.org/quarto-pressmark/) - An elegant, typographic, minimalistic theme for Quarto websites, inspired by newspapers and tufte-css, with curated fonts and extensive custom styling (see <https://github.com/skriptum/quarto-pressmark> ⭐ 9 | 🐛 2 | 🌐 SCSS | 📅 2026-08-13).
-* [Noah Weidig's website](https://github.com/noahweidig/noahweidig.github.io) ⭐ 4 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-21 - A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.
+* [Noah Weidig's website](https://github.com/noahweidig/noahweidig.github.io) ⭐ 4 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-24 - A single-page portfolio and blog with a custom light/dark theme (based on cosmo), an interactive 3D globe, and post-render scripts generating Open Graph cards.
 * [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-24 - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
 * [Real World Data Science](https://realworlddatascience.net/) - The Royal Statistical Society website, built with Quarto, features a custom design (based on the Lux Bootswatch theme), with a customised navbar and homepage layout.
 * [Silvia Canelón's website](https://silviacanelon.com) - Website customised to match the style of the Hugo Apéro blogdown theme.
@@ -293,10 +293,10 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,842 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,140 | 🐛 35 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
-* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-23 - "R Packages" book second edition (see <https://r-pkgs.org/>).
-* [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 282 | 🐛 20 | 🌐 TeX | 📅 2026-08-19 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,844 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,140 | 🐛 37 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-24 - "R Packages" book second edition (see <https://r-pkgs.org/>).
+* [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 282 | 🐛 19 | 🌐 TeX | 📅 2026-08-24 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Applied Machine Learning for Tabular Data](https://github.com/aml4td/website) ⭐ 170 | 🐛 29 | 🌐 TeX | 📅 2026-08-22 - An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see <https://aml4td.org/>).
 * [Quarto for Scientists](https://github.com/njtierney/qmd4sci) ⭐ 70 | 🐛 20 | 🌐 TeX | 📅 2026-07-08 - A living book teaching scientists to write reproducible reports with Quarto (see <https://qmd4sci.njtierney.com/>).
 * [Quarto: The Practical Guide](https://github.com/mine-cetinkaya-rundel/quarto-tdg) ⭐ 61 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-23 - A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see <https://quarto-tdg.org/>).
@@ -306,7 +306,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Other formats
 
 * [Scrollytelling with Closeread](https://github.com/nrennie/scrollytelling) ⭐ 69 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-01 - A collection of scrollytelling data stories built with the Closeread extension, covering line charts, arc charts, and Gapminder-style animations (see <https://nrennie.rbind.io/scrollytelling/>).
-* [GitHub open-source dashboard](https://github.com/schochastics/gh-dashboard) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-08-17 - A Quarto dashboard monitoring the health, CRAN status, and weekly activity of a maintainer's open-source projects (see <https://schochastics.github.io/gh-dashboard/>).
+* [GitHub open-source dashboard](https://github.com/schochastics/gh-dashboard) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - A Quarto dashboard monitoring the health, CRAN status, and weekly activity of a maintainer's open-source projects (see <https://schochastics.github.io/gh-dashboard/>).
 
 <!--lint disable awesome-list-item-->
 
