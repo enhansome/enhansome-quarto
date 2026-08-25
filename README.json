@@ -15,7 +15,7 @@
             "last_commit": "2026-08-07T09:37:08Z",
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2166
+            "stars": 2168
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-07T09:37:08Z",
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2166
+            "stars": 2168
           }
         }
       ],
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 222507066,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T23:57:31Z",
+            "last_commit": "2026-08-25T01:26:45Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
             "stars": 5308
@@ -517,7 +517,7 @@
                 "archived": false,
                 "id": 1099225867,
                 "language": "Python",
-                "last_commit": "2026-08-22T23:25:26Z",
+                "last_commit": "2026-08-24T22:41:46Z",
                 "owner": "posit-dev",
                 "repo": "great-docs",
                 "stars": 258
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-21T07:44:17Z",
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6003
+                "stars": 6007
               }
             },
             {
@@ -651,7 +651,7 @@
                 "archived": false,
                 "id": 1049639719,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:08:44Z",
+                "last_commit": "2026-08-24T20:37:37Z",
                 "owner": "jolars",
                 "repo": "panache",
                 "stars": 214
@@ -1058,7 +1058,7 @@
                 "archived": false,
                 "id": 347633358,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:18:04Z",
+                "last_commit": "2026-08-24T22:12:54Z",
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 400
@@ -1253,7 +1253,7 @@
                 "archived": false,
                 "id": 1301878770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:22:06Z",
+                "last_commit": "2026-08-25T01:10:34Z",
                 "owner": "noahweidig",
                 "repo": "noahweidig.github.io",
                 "stars": 4
@@ -1293,7 +1293,7 @@
                 "last_commit": "2025-10-17T13:19:14Z",
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24844
+                "stars": 24847
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "archived": false,
                 "id": 721268073,
                 "language": "TeX",
-                "last_commit": "2026-08-22T19:26:57Z",
+                "last_commit": "2026-08-24T20:36:47Z",
                 "owner": "aml4td",
                 "repo": "website",
                 "stars": 170
@@ -1380,7 +1380,7 @@
                 "archived": false,
                 "id": 701096770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T23:17:08Z",
+                "last_commit": "2026-08-24T23:19:03Z",
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
                 "stars": 61
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:54.105Z",
+    "last_updated": "2026-08-25T05:15:52.136Z",
     "original_repository": "mcanouil/awesome-quarto",
     "original_repository_id": 519771271,
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",
