@@ -132,7 +132,7 @@
             "last_commit": "2026-08-26T23:00:38Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5312
+            "stars": 5313
           }
         },
         {
@@ -386,7 +386,7 @@
                 "last_commit": "2026-08-13T02:40:15Z",
                 "owner": "r-lib",
                 "repo": "ir",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -569,7 +569,7 @@
                 "archived": false,
                 "id": 889212358,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:39:15Z",
+                "last_commit": "2026-08-27T12:59:36Z",
                 "owner": "mcanouil",
                 "repo": "quarto-wizard",
                 "stars": 84
@@ -609,7 +609,7 @@
                 "last_commit": "2026-08-26T21:25:06Z",
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6029
+                "stars": 6031
               }
             },
             {
@@ -621,7 +621,7 @@
                 "archived": false,
                 "id": 940812004,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:17:19Z",
+                "last_commit": "2026-08-27T13:07:37Z",
                 "owner": "rvben",
                 "repo": "rumdl",
                 "stars": 1451
@@ -636,7 +636,7 @@
                 "archived": false,
                 "id": 843563460,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T10:28:50Z",
+                "last_commit": "2026-08-27T13:44:39Z",
                 "owner": "ltex-plus",
                 "repo": "ltex-ls-plus",
                 "stars": 253
@@ -651,10 +651,10 @@
                 "archived": false,
                 "id": 1049639719,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:25:06Z",
+                "last_commit": "2026-08-27T14:05:20Z",
                 "owner": "jolars",
                 "repo": "panache",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -755,7 +755,7 @@
             "last_commit": "2026-08-17T19:44:02Z",
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 482
+            "stars": 483
           }
         },
         {
@@ -1058,7 +1058,7 @@
                 "archived": false,
                 "id": 347633358,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:08:14Z",
+                "last_commit": "2026-08-27T14:45:23Z",
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 400
@@ -1293,7 +1293,7 @@
                 "last_commit": "2025-10-17T13:19:14Z",
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24860
+                "stars": 24861
               }
             },
             {
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:44.884Z",
+    "last_updated": "2026-08-27T15:29:24.110Z",
     "original_repository_info": {
       "archived": false,
       "id": 519771271,
