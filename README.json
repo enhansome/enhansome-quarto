@@ -16,7 +16,8 @@
             "owner": "mcanouil",
             "repo": "awesome-quarto",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mcanouil",
             "repo": "awesome-quarto",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "UCSB-MEDS",
             "repo": "customizing-quarto-websites",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "jadeynryan",
             "repo": "parameterized-quarto-workshop",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "qmd-lab",
             "repo": "closeread-workshop",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "WarwickCIM",
             "repo": "quarto-workshop",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "perezp44",
             "repo": "taller.primer.blog",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "Tutorials & workshops"
@@ -132,8 +139,9 @@
             "last_commit": "2026-08-26T23:00:38Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5313
-          }
+            "stars": 5314
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "mine-cetinkaya-rundel",
             "repo": "hello-quarto",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "KeithGalli",
             "repo": "quarto-crash-course",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "jthomasmock",
             "repo": "quarto-reporting",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "ivelasq",
             "repo": "2022-10-27_intro-to-quarto",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "Talks and videos"
@@ -213,8 +225,9 @@
             "last_commit": "2026-08-25T19:54:06Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 639
-          }
+            "stars": 640
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -228,8 +241,9 @@
             "last_commit": "2026-08-25T19:54:06Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 639
-          }
+            "stars": 640
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -243,8 +257,9 @@
             "last_commit": "2026-08-26T13:17:13Z",
             "owner": "quarto-dev",
             "repo": "quarto-nvim",
-            "stars": 530
-          }
+            "stars": 529
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "quarto-dev",
             "repo": "quarto-emacs",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "quarto-dev",
             "repo": "quarto-vim",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "quarto-dev",
             "repo": "quarto-sublime",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "prefrontal-systems",
             "repo": "zed-quarto-plugin",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "Supported editors"
@@ -327,7 +346,8 @@
                 "owner": "Pakillo",
                 "repo": "grateful",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -342,7 +362,8 @@
                 "owner": "quarto-dev",
                 "repo": "quarto-r",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -357,7 +378,8 @@
                 "owner": "etiennebacher",
                 "repo": "altdoc",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -372,7 +394,8 @@
                 "owner": "matt-dray",
                 "repo": "quartostamp",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -386,8 +409,9 @@
                 "last_commit": "2026-08-13T02:40:15Z",
                 "owner": "r-lib",
                 "repo": "ir",
-                "stars": 61
-              }
+                "stars": 62
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -402,7 +426,8 @@
                 "owner": "arnaudgallou",
                 "repo": "plume",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -417,7 +442,8 @@
                 "owner": "eitsupi",
                 "repo": "rd2qmd",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -432,7 +458,8 @@
                 "owner": "arnaudgallou",
                 "repo": "pakret",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -454,7 +481,8 @@
                 "owner": "PumasAI",
                 "repo": "QuartoNotebookRunner.jl",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -469,7 +497,8 @@
                 "owner": "quarto-dev",
                 "repo": "quarto-julia",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -484,7 +513,8 @@
                 "owner": "jdc-pub",
                 "repo": "DocumenterQuarto.jl",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -506,7 +536,8 @@
                 "owner": "machow",
                 "repo": "quartodoc",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -517,11 +548,12 @@
                 "archived": false,
                 "id": 1099225867,
                 "language": "Python",
-                "last_commit": "2026-08-26T23:20:21Z",
+                "last_commit": "2026-08-28T16:50:54Z",
                 "owner": "posit-dev",
                 "repo": "great-docs",
-                "stars": 258
-              }
+                "stars": 259
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -536,7 +568,8 @@
                 "owner": "quarto-dev",
                 "repo": "quarto-python",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -551,7 +584,8 @@
                 "owner": "lintquarto",
                 "repo": "lintquarto",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -569,11 +603,12 @@
                 "archived": false,
                 "id": 889212358,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T12:59:36Z",
+                "last_commit": "2026-08-28T13:33:44Z",
                 "owner": "mcanouil",
                 "repo": "quarto-wizard",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -588,7 +623,8 @@
                 "owner": "ntluong95",
                 "repo": "quarto-wingman",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -606,11 +642,12 @@
                 "archived": false,
                 "id": 81020247,
                 "language": "Go",
-                "last_commit": "2026-08-26T21:25:06Z",
+                "last_commit": "2026-08-28T14:10:16Z",
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6031
-              }
+                "stars": 6041
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -621,11 +658,12 @@
                 "archived": false,
                 "id": 940812004,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:07:37Z",
+                "last_commit": "2026-08-28T16:24:11Z",
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1451
-              }
+                "stars": 1455
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -636,11 +674,12 @@
                 "archived": false,
                 "id": 843563460,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T13:44:39Z",
+                "last_commit": "2026-08-28T14:55:09Z",
                 "owner": "ltex-plus",
                 "repo": "ltex-ls-plus",
-                "stars": 253
-              }
+                "stars": 254
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -651,11 +690,12 @@
                 "archived": false,
                 "id": 1049639719,
                 "language": "Rust",
-                "last_commit": "2026-08-27T14:05:20Z",
+                "last_commit": "2026-08-28T11:22:54Z",
                 "owner": "jolars",
                 "repo": "panache",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -670,7 +710,8 @@
                 "owner": "posit-dev",
                 "repo": "brand-yml",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -685,7 +726,8 @@
                 "owner": "hrbrmstr",
                 "repo": "ohq2quarto",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -700,7 +742,8 @@
                 "owner": "hrbrmstr",
                 "repo": "reveal-qmd",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -715,7 +758,8 @@
                 "owner": "rgomez90",
                 "repo": "matrix-bot",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -730,7 +774,8 @@
                 "owner": "PMassicotte",
                 "repo": "loom-lsp",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -752,11 +797,12 @@
             "archived": false,
             "id": 1101373353,
             "language": "R",
-            "last_commit": "2026-08-17T19:44:02Z",
+            "last_commit": "2026-08-28T13:02:58Z",
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 483
-          }
+            "stars": 485
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -771,7 +817,8 @@
             "owner": "ropensci-review-tools",
             "repo": "babeldown",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -786,7 +833,8 @@
             "owner": "stephenturner",
             "repo": "skill-brand-yml",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -801,7 +849,8 @@
             "owner": "alfredo-hs",
             "repo": "quarto-talks",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "AI & LLMs"
@@ -821,8 +870,9 @@
             "last_commit": "2026-08-24T00:22:46Z",
             "owner": "quarto-dev",
             "repo": "quarto-actions",
-            "stars": 285
-          }
+            "stars": 286
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -837,7 +887,8 @@
             "owner": "rocker-org",
             "repo": "devcontainer-features",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         },
         {
           "node_type": "item",
@@ -852,7 +903,8 @@
             "owner": "mcanouil",
             "repo": "quarto-extensions-updater",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:54:59.399Z"
         }
       ],
       "title": "Continuous integration / Continuous deployment"
@@ -875,7 +927,8 @@
                 "owner": "EmilHvitfeldt",
                 "repo": "quarto-iframe-examples",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -890,7 +943,8 @@
                 "owner": "jthomasmock",
                 "repo": "arrow-dplyr",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -905,7 +959,8 @@
                 "owner": "meghall06",
                 "repo": "personal-website",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -920,7 +975,8 @@
                 "owner": "apreshill",
                 "repo": "palmerpenguins-useR-2022",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -935,7 +991,8 @@
                 "owner": "emitanaka",
                 "repo": "talks",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1007,8 @@
                 "owner": "jimjam-slam",
                 "repo": "talk-runapp-quarto-2022",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1023,8 @@
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "tidyperspective",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -980,7 +1039,8 @@
                 "owner": "EmilHvitfeldt",
                 "repo": "talk-useR2022-textrecipes",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1055,8 @@
                 "owner": "EmilHvitfeldt",
                 "repo": "talk-jsm-stunning-presentations",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1071,8 @@
                 "owner": "mcanouil",
                 "repo": "radvanced",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1087,8 @@
                 "owner": "shandiya",
                 "repo": "VicBioCon2023",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -1047,7 +1110,8 @@
                 "owner": "aeturrell",
                 "repo": "skimpy",
                 "stars": 517
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1058,11 +1122,12 @@
                 "archived": false,
                 "id": 347633358,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T14:45:23Z",
+                "last_commit": "2026-08-28T16:26:49Z",
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1142,8 @@
                 "owner": "andrewheiss",
                 "repo": "ath-quarto",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1158,8 @@
                 "owner": "rstudio",
                 "repo": "r-manuals",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1174,8 @@
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tip-a-day",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1190,8 @@
                 "owner": "andrewheiss",
                 "repo": "evalf22.classes.andrewheiss.com",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1206,8 @@
                 "owner": "ropensci-review-tools",
                 "repo": "babelquarto",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1222,8 @@
                 "owner": "EllaKaye",
                 "repo": "ellakaye.co.uk",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1238,8 @@
                 "owner": "cgoo4",
                 "repo": "quantumjitter",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1254,8 @@
                 "owner": "eitsupi",
                 "repo": "querying-with-prql",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1270,8 @@
                 "owner": "SMaRTWorkshops",
                 "repo": "r4ss",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1286,8 @@
                 "owner": "jmgirard",
                 "repo": "affcomlab",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1227,7 +1302,8 @@
                 "owner": "Bioconductor",
                 "repo": "biocblog",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1318,8 @@
                 "owner": "skriptum",
                 "repo": "quarto-pressmark",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1334,8 @@
                 "owner": "noahweidig",
                 "repo": "noahweidig.github.io",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1350,8 @@
                 "owner": "jatorresmunguia",
                 "repo": "juan-torresmunguia.github.io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -1293,8 +1372,9 @@
                 "last_commit": "2025-10-17T13:19:14Z",
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24861
-              }
+                "stars": 24866
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1308,8 +1388,9 @@
                 "last_commit": "2026-07-18T02:06:45Z",
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5142
-              }
+                "stars": 5143
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1320,11 +1401,12 @@
                 "archived": false,
                 "id": 22727910,
                 "language": "R",
-                "last_commit": "2026-08-27T10:32:32Z",
+                "last_commit": "2026-08-28T10:45:55Z",
                 "owner": "hadley",
                 "repo": "r-pkgs",
                 "stars": 951
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1339,7 +1421,8 @@
                 "owner": "mlr-org",
                 "repo": "mlr3book",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1437,8 @@
                 "owner": "aml4td",
                 "repo": "website",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1453,8 @@
                 "owner": "njtierney",
                 "repo": "qmd4sci",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1380,11 +1465,12 @@
                 "archived": false,
                 "id": 701096770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T04:12:45Z",
+                "last_commit": "2026-08-28T06:29:16Z",
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1485,8 @@
                 "owner": "network-science-notes",
                 "repo": "network-science-notes.github.io",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -1421,7 +1508,8 @@
                 "owner": "nrennie",
                 "repo": "scrollytelling",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1524,8 @@
                 "owner": "schochastics",
                 "repo": "gh-dashboard",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:54:59.399Z"
             }
           ],
           "description": null,
@@ -1448,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:29:24.110Z",
+    "last_updated": "2026-08-28T16:54:59.399Z",
     "original_repository_info": {
       "archived": false,
       "id": 519771271,
