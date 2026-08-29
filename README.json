@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+            "homepage": null,
             "id": 519771271,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T09:37:08Z",
+            "open_issues": 0,
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2169
+            "stars": 2170,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "quarto",
+              "quarto-extension",
+              "quarto-template"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+            "homepage": null,
             "id": 519771271,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T09:37:08Z",
+            "open_issues": 0,
             "owner": "mcanouil",
             "repo": "awesome-quarto",
-            "stars": 2169
+            "stars": 2170,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "quarto",
+              "quarto-extension",
+              "quarto-template"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -48,12 +70,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customize Quarto websites using Sass & CSS",
+            "homepage": "https://ucsb-meds.github.io/customizing-quarto-websites/",
             "id": 533488953,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-14T17:42:42Z",
+            "open_issues": 2,
             "owner": "UCSB-MEDS",
             "repo": "customizing-quarto-websites",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "css",
+              "quarto",
+              "sass",
+              "websites",
+              "workshop-materials"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -64,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for reproducible and parameterized Quarto workshops",
+            "homepage": null,
             "id": 742970336,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-25T23:18:41Z",
+            "open_issues": 0,
             "owner": "jadeynryan",
             "repo": "parameterized-quarto-workshop",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -80,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for a workshop on the Closeread Quarto extension.",
+            "homepage": null,
             "id": 890090059,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-21T17:13:25Z",
+            "open_issues": 1,
             "owner": "qmd-lab",
             "repo": "closeread-workshop",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -96,12 +139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto Workshop for RSE Conf 2022",
+            "homepage": "https://warwickcim.github.io/quarto-workshop/slides/slides.html",
             "id": 504203767,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-16T12:10:06Z",
+            "open_issues": 10,
             "owner": "WarwickCIM",
             "repo": "quarto-workshop",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "quarto",
+              "slides",
+              "workshop-materials"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -112,12 +164,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web para el taller \"Mi primer blog con Quarto\" a celebrar en las Jornadas de usuarios de R en Cordoba",
+            "homepage": "https://perezp44.github.io/taller.primer.blog/",
             "id": 545380705,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-11-26T20:45:18Z",
+            "open_issues": 0,
             "owner": "perezp44",
             "repo": "taller.primer.blog",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "blog",
+              "quarto",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -134,12 +195,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create delightful software with Jupyter Notebooks",
+            "homepage": "https://nbdev.fast.ai/",
             "id": 222507066,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:00:38Z",
+            "open_issues": 186,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5314
+            "stars": 5314,
+            "topics": [
+              "conda",
+              "developer-tools",
+              "documentation-generator",
+              "documentation-tool",
+              "fastai",
+              "jupyter",
+              "jupyter-notebooks",
+              "literate-programming",
+              "nbdev",
+              "pypi",
+              "python",
+              "python-modules"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -150,12 +229,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the \"Hello Quarto\" keynote for rstudio::conf(2022) with Julia Stewart Lowndes - July 2022",
+            "homepage": "https://mine.quarto.pub/hello-quarto",
             "id": 458335993,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-08-08T17:16:01Z",
+            "open_issues": 0,
             "owner": "mine-cetinkaya-rundel",
             "repo": "hello-quarto",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "python",
+              "quarto",
+              "quarto-pub",
+              "revealjs",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -166,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 882713244,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-19T20:42:46Z",
+            "open_issues": 0,
             "owner": "KeithGalli",
             "repo": "quarto-crash-course",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -182,12 +277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example content for Reporting and Presentation webinar",
+            "homepage": "https://thomasmock.quarto.pub/reports-presentations/",
             "id": 542121633,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-10-30T14:56:21Z",
+            "open_issues": 1,
             "owner": "jthomasmock",
             "repo": "quarto-reporting",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -198,12 +298,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2022-10-27 R-Ladies St. Louis Presentation",
+            "homepage": "https://ivelasq.quarto.pub/intro-to-quarto/",
             "id": 555944318,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-10-28T00:52:01Z",
+            "open_issues": 0,
             "owner": "ivelasq",
             "repo": "2022-10-27_intro-to-quarto",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "quarto",
+              "quarto-pub",
+              "quartopub"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -220,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto open-source scientific and technical publishing system",
+            "homepage": "https://quarto.org",
             "id": 561326180,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T19:54:06Z",
+            "open_issues": 391,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 640
+            "stars": 640,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -236,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto open-source scientific and technical publishing system",
+            "homepage": "https://quarto.org",
             "id": 561326180,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T19:54:06Z",
+            "open_issues": 391,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 640
+            "stars": 640,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -252,12 +371,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto mode for Neovim",
+            "homepage": null,
             "id": 517434189,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T13:17:13Z",
+            "open_issues": 5,
             "owner": "quarto-dev",
             "repo": "quarto-nvim",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "nvim-cmp",
+              "quarto"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -268,12 +398,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An emacs mode for quarto: https://quarto.org",
+            "homepage": null,
             "id": 457421531,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-05T11:11:43Z",
+            "open_issues": 16,
             "owner": "quarto-dev",
             "repo": "quarto-emacs",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "emacs",
+              "markdown",
+              "quarto"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -284,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rmarkdown support for vim",
+            "homepage": null,
             "id": 457339845,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2026-01-27T16:49:47Z",
+            "open_issues": 1,
             "owner": "quarto-dev",
             "repo": "quarto-vim",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -300,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 457155845,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-14T00:19:24Z",
+            "open_issues": 5,
             "owner": "quarto-dev",
             "repo": "quarto-sublime",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -316,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quarto grammar support for the Zed editor - syntax highlighting, code block injections, and snippets for .qmd files",
+            "homepage": null,
             "id": 1100977876,
             "language": "Tree-sitter Query",
+            "license": "MIT",
             "last_commit": "2025-11-21T02:53:10Z",
+            "open_issues": 2,
             "owner": "prefrontal-systems",
             "repo": "zed-quarto-plugin",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -340,12 +494,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Facilitate citation of R packages",
+                "homepage": "https://pakillo.github.io/grateful/",
                 "id": 99728404,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T13:08:20Z",
+                "open_issues": 2,
                 "owner": "Pakillo",
                 "repo": "grateful",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "citation-generator",
+                  "r",
+                  "r-package",
+                  "software-citation"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -356,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R interface to quarto-cli",
+                "homepage": "https://quarto-dev.github.io/quarto-r/",
                 "id": 335411552,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-21T11:44:57Z",
+                "open_issues": 41,
                 "owner": "quarto-dev",
                 "repo": "quarto-r",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -372,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alternative to pkgdown to document R packages",
+                "homepage": "https://altdoc.etiennebacher.com",
                 "id": 399876738,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-07T18:35:29Z",
+                "open_issues": 23,
                 "owner": "etiennebacher",
                 "repo": "altdoc",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -388,12 +562,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":white_flower::scroll: R package: RStudio Addin to insert ('stamp') useful Quarto elements",
+                "homepage": "https://matt-dray.github.io/quartostamp/",
                 "id": 521611568,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T15:42:11Z",
+                "open_issues": 9,
                 "owner": "matt-dray",
                 "repo": "quartostamp",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "quarto",
+                  "rstats",
+                  "rstats-package",
+                  "rstudio-addin"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -404,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://r-lib.github.io/ir/",
                 "id": 1257456632,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-13T02:40:15Z",
+                "open_issues": 9,
                 "owner": "r-lib",
                 "repo": "ir",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -420,12 +609,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple author handler for scientific writing",
+                "homepage": "https://arnaudgallou.github.io/plume/",
                 "id": 616738318,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T17:43:24Z",
+                "open_issues": 3,
                 "owner": "arnaudgallou",
                 "repo": "plume",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "authors",
+                  "contribution",
+                  "contributions",
+                  "list",
+                  "lists",
+                  "markdown",
+                  "paper",
+                  "preprint",
+                  "quarto",
+                  "r",
+                  "role",
+                  "roles"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -436,12 +643,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast Rd to (Quarto) Markdown converter written in Rust, with intelligent link resolution.",
+                "homepage": null,
                 "id": 1141632751,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-16T21:55:21Z",
+                "open_issues": 3,
                 "owner": "eitsupi",
                 "repo": "rd2qmd",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "markdown",
+                  "quarto",
+                  "r",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -452,12 +669,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cite R :package: on the fly in R Markdown and Quarto",
+                "homepage": "https://arnaudgallou.github.io/pakret/",
                 "id": 832094824,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-15T10:25:14Z",
+                "open_issues": 0,
                 "owner": "arnaudgallou",
                 "repo": "pakret",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bib",
+                  "bibtex",
+                  "citation",
+                  "citations",
+                  "generate"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -475,12 +703,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 739423552,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:02:01Z",
+                "open_issues": 26,
                 "owner": "PumasAI",
                 "repo": "QuartoNotebookRunner.jl",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "julia",
+                  "quarto"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -491,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia interface to quarto-cli",
+                "homepage": null,
                 "id": 338026679,
                 "language": "Julia",
+                "license": "GPL-2.0",
                 "last_commit": "2021-05-22T12:12:02Z",
+                "open_issues": 7,
                 "owner": "quarto-dev",
                 "repo": "quarto-julia",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -507,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build documentation for your Julia package with Quarto!",
+                "homepage": "http://docs.loopy.codes/DocumenterQuarto.jl/",
                 "id": 786302865,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2025-10-25T20:04:51Z",
+                "open_issues": 4,
                 "owner": "jdc-pub",
                 "repo": "DocumenterQuarto.jl",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -530,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate API documentation with quarto",
+                "homepage": "https://machow.github.io/quartodoc",
                 "id": 561901793,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-08T22:46:07Z",
+                "open_issues": 85,
                 "owner": "machow",
                 "repo": "quartodoc",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -546,12 +797,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation sites for Python packages: start simple, go deep",
+                "homepage": "https://posit-dev.github.io/great-docs/",
                 "id": 1099225867,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:50:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:27:32Z",
+                "open_issues": 21,
                 "owner": "posit-dev",
                 "repo": "great-docs",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "authoring-tools",
+                  "documentation",
+                  "easy-to-start",
+                  "python",
+                  "site-generator"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -562,12 +824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python interface to quarto-cli",
+                "homepage": null,
                 "id": 335619152,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-28T06:19:35Z",
+                "open_issues": 9,
                 "owner": "quarto-dev",
                 "repo": "quarto-python",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -578,12 +845,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package for running linters, formatters, static type checkers, and code analysis tools on python code in quarto (.qmd) files.",
+                "homepage": "https://lintquarto.github.io/lintquarto/",
                 "id": 1007669496,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-07T13:15:36Z",
+                "open_issues": 9,
                 "owner": "lintquarto",
                 "repo": "lintquarto",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "lint",
+                  "linter",
+                  "linters",
+                  "linting",
+                  "qmd",
+                  "quarto",
+                  "quartodoc",
+                  "static-type-checking",
+                  "static-typechecking"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -601,12 +883,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quarto Wizard is a Visual Studio Code / Positron extension that assists you in managing extensions in Quarto projects.",
+                "homepage": "https://m.canouil.dev/quarto-wizard/",
                 "id": 889212358,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:33:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:14:39Z",
+                "open_issues": 1,
                 "owner": "mcanouil",
                 "repo": "quarto-wizard",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "codium",
+                  "extension",
+                  "positron",
+                  "quarto",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -617,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 966355240,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-16T14:47:40Z",
+                "open_issues": 4,
                 "owner": "ntluong95",
                 "repo": "quarto-wingman",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -640,12 +938,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":pencil: A markup-aware linter for prose built with speed and extensibility in mind.",
+                "homepage": "https://vale.sh",
                 "id": 81020247,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:10:16Z",
+                "open_issues": 26,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6041
+                "stars": 6043,
+                "topics": [
+                  "linter",
+                  "linting",
+                  "vale"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -656,12 +963,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Markdown linter and formatter written in Rust",
+                "homepage": null,
                 "id": 940812004,
                 "language": "Rust",
-                "last_commit": "2026-08-28T16:24:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:54:13Z",
+                "open_issues": 9,
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1455
+                "stars": 1459,
+                "topics": [
+                  "cli",
+                  "developer-tools",
+                  "formatter",
+                  "linter",
+                  "markdown",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -672,12 +991,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LTeX+ Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others",
+                "homepage": "https://ltex-plus.github.io/ltex-plus/",
                 "id": 843563460,
                 "language": "Kotlin",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T14:55:09Z",
+                "open_issues": 27,
                 "owner": "ltex-plus",
                 "repo": "ltex-ls-plus",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "bibtex",
+                  "context",
+                  "grammar",
+                  "html",
+                  "languagetool",
+                  "latex",
+                  "lsp",
+                  "lsp-server",
+                  "markdown",
+                  "mdx",
+                  "neorg",
+                  "org-mode",
+                  "quarto",
+                  "restructuredtext",
+                  "spellcheck",
+                  "spelling",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -688,12 +1030,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language server, formatter, and linter for Markdown, Quarto, and R Markdown",
+                "homepage": "https://panache.bz",
                 "id": 1049639719,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:22:54Z",
+                "open_issues": 3,
                 "owner": "jolars",
                 "repo": "panache",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "commonmark",
+                  "formatter",
+                  "language-server",
+                  "linter",
+                  "markdown",
+                  "pandoc",
+                  "quarto",
+                  "rmarkdown"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -704,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified branding with a single YAML file",
+                "homepage": "https://posit-dev.github.io/brand-yml/",
                 "id": 775109788,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T20:11:57Z",
+                "open_issues": 37,
                 "owner": "posit-dev",
                 "repo": "brand-yml",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -720,12 +1081,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Save an Observable HQ Notebook to a Quarto project",
+                "homepage": null,
                 "id": 526724365,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-10-07T10:41:20Z",
+                "open_issues": 6,
                 "owner": "hrbrmstr",
                 "repo": "ohq2quarto",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "observable-notebook",
+                  "observablehq",
+                  "quarto",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -736,12 +1107,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome Extension To Reveal Observable Notebooks As Quarto QMD {ojs} Blocks & provide downloads of FileAttachments and zipped Quarto project",
+                "homepage": null,
                 "id": 527236325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-22T07:48:45Z",
+                "open_issues": 4,
                 "owner": "hrbrmstr",
                 "repo": "reveal-qmd",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "chrome-extension",
+                  "observable-notebook",
+                  "observablehq",
+                  "quarto"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -752,12 +1133,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple python matrix bot based on Matrix-nio ",
+                "homepage": null,
                 "id": 541795255,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-29T09:27:51Z",
+                "open_issues": 0,
                 "owner": "rgomez90",
                 "repo": "matrix-bot",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bot",
+                  "matrix",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -768,12 +1158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write Quarto documents and get IDE support for different languages in your notebook at the same time.",
+                "homepage": "https://pmassicotte.github.io/loom-lsp/",
                 "id": 1190671335,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-04T12:14:56Z",
+                "open_issues": 0,
                 "owner": "PMassicotte",
                 "repo": "loom-lsp",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -795,12 +1190,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Claude Skills from Posit",
+            "homepage": null,
             "id": 1101373353,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:02:58Z",
+            "open_issues": 17,
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 485
+            "stars": 485,
+            "topics": [
+              "claude-code",
+              "claude-code-plugin",
+              "claude-skills"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -811,12 +1215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helpers for Automatic Translation of Markdown-based Content",
+            "homepage": "https://docs.ropensci.org/babeldown/",
             "id": 589978537,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T15:12:45Z",
+            "open_issues": 17,
             "owner": "ropensci-review-tools",
             "repo": "babeldown",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -827,12 +1236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude skill that generates _brand.yml files for Quarto projects.",
+            "homepage": null,
             "id": 1159946186,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-26T14:23:14Z",
+            "open_issues": 0,
             "owner": "stephenturner",
             "repo": "skill-brand-yml",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -843,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skill for making RevealJS slides with Quarto",
+            "homepage": null,
             "id": 1301567158,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-07-15T21:17:23Z",
+            "open_issues": 0,
             "owner": "alfredo-hs",
             "repo": "quarto-talks",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -865,12 +1284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404683788,
             "language": "PowerShell",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T00:22:46Z",
+            "open_issues": 39,
             "owner": "quarto-dev",
             "repo": "quarto-actions",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -881,12 +1305,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Dev Container Features.",
+            "homepage": "https://rocker-project.org/images/devcontainer/features.html",
             "id": 540695187,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-09T06:56:58Z",
+            "open_issues": 17,
             "owner": "rocker-org",
             "repo": "devcontainer-features",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "devcontainers"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         },
@@ -897,12 +1328,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action that automatically updates Quarto extensions in your repository, similar to how Dependabot manages dependencies.",
+            "homepage": "https://m.canouil.dev/quarto-extensions-updater/",
             "id": 1079255846,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T09:07:10Z",
+            "open_issues": 0,
             "owner": "mcanouil",
             "repo": "quarto-extensions-updater",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "dependabot",
+              "github-actions",
+              "quarto",
+              "quarto-extension",
+              "quarto-wizard"
+            ]
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
         }
@@ -921,12 +1363,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://emilhvitfeldt.github.io/quarto-iframe-examples/",
                 "id": 572279573,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-05T18:21:51Z",
+                "open_issues": 3,
                 "owner": "EmilHvitfeldt",
                 "repo": "quarto-iframe-examples",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "quarto",
+                  "quartopub"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -937,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick lightning talk on using arrow and dplyr together",
+                "homepage": "https://jthomasmock.github.io/arrow-dplyr/",
                 "id": 499391891,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-06-03T16:46:27Z",
+                "open_issues": 0,
                 "owner": "jthomasmock",
                 "repo": "arrow-dplyr",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -953,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal website, built with Quarto.",
+                "homepage": "https://meghan.rbind.io/",
                 "id": 228257572,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-08-14T19:07:40Z",
+                "open_issues": 1,
                 "owner": "meghall06",
                 "repo": "personal-website",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -969,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides from our talk at the useR 2022 conference on \"The Untold Story of palmerpenguins\"",
+                "homepage": "https://apreshill.github.io/palmerpenguins-useR-2022/",
                 "id": 504294962,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-06-21T14:57:34Z",
+                "open_issues": 0,
                 "owner": "apreshill",
                 "repo": "palmerpenguins-useR-2022",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -985,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for my slides",
+                "homepage": null,
                 "id": 138098173,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-01T06:18:43Z",
+                "open_issues": 0,
                 "owner": "emitanaka",
                 "repo": "talks",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1001,12 +1471,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://runapp2022.talks.jamesgoldie.dev",
                 "id": 478861660,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-24T04:27:43Z",
+                "open_issues": 0,
                 "owner": "jimjam-slam",
                 "repo": "talk-runapp-quarto-2022",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "julia",
+                  "literate-programming",
+                  "observable-js",
+                  "ojs",
+                  "python",
+                  "qmd",
+                  "quarto",
+                  "r",
+                  "reproducible-reports",
+                  "reproducible-research",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1017,12 +1504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://mine-cetinkaya-rundel.github.io/tidyperspective/",
                 "id": 474972487,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-11-07T14:29:16Z",
+                "open_issues": 0,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "tidyperspective",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1033,12 +1525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://emilhvitfeldt.github.io/talk-useR2022-textrecipes/",
                 "id": 506545164,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-08-23T03:26:10Z",
+                "open_issues": 0,
                 "owner": "EmilHvitfeldt",
                 "repo": "talk-useR2022-textrecipes",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1049,12 +1546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://emilhvitfeldt.github.io/talk-jsm-stunning-presentations/",
                 "id": 838171093,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-05-28T08:09:32Z",
+                "open_issues": 0,
                 "owner": "EmilHvitfeldt",
                 "repo": "talk-jsm-stunning-presentations",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1065,12 +1567,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced introduction to R in French.",
+                "homepage": "https://m.canouil.dev/radvanced/",
                 "id": 311420140,
                 "language": "Lua",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-07T21:29:21Z",
+                "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "radvanced",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "course",
+                  "french",
+                  "presentation-slides",
+                  "r",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1081,12 +1594,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the slides presented at VicBioCon2023",
+                "homepage": "https://shandiya.quarto.pub/vicbiocon2023/",
                 "id": 575699870,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-02-08T08:28:23Z",
+                "open_issues": 0,
                 "owner": "shandiya",
                 "repo": "VicBioCon2023",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "quarto",
+                  "revealjs",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -1104,12 +1626,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.",
+                "homepage": "https://aeturrell.github.io/skimpy/",
                 "id": 402182460,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-10T05:24:50Z",
+                "open_issues": 18,
                 "owner": "aeturrell",
                 "repo": "skimpy",
-                "stars": 517
+                "stars": 517,
+                "topics": [
+                  "data-science",
+                  "eda",
+                  "exploratory-data-analysis",
+                  "pandas",
+                  "statistics",
+                  "summary-statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1120,12 +1654,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quarto website",
+                "homepage": "https://quarto.org",
                 "id": 347633358,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:26:49Z",
+                "open_issues": 33,
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "documentation",
+                  "quarto"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1136,12 +1678,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and content for andrewheiss.com",
+                "homepage": "https://www.andrewheiss.com/",
                 "id": 571376677,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-26T13:59:14Z",
+                "open_issues": 4,
                 "owner": "andrewheiss",
                 "repo": "ath-quarto",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "quarto"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1152,12 +1701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A re-styled version of the R manuals",
+                "homepage": "https://rstudio.github.io/r-manuals",
                 "id": 442501979,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-12T20:45:05Z",
+                "open_issues": 0,
                 "owner": "rstudio",
                 "repo": "r-manuals",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1168,12 +1722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/",
                 "id": 498960917,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-12-05T21:17:40Z",
+                "open_issues": 6,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tip-a-day",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1184,12 +1743,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto",
+                "homepage": "https://evalf22.classes.andrewheiss.com/",
                 "id": 518255523,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-11-14T18:26:38Z",
+                "open_issues": 1,
                 "owner": "andrewheiss",
                 "repo": "evalf22.classes.andrewheiss.com",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "causal-inference",
+                  "program-evaluation",
+                  "quarto",
+                  "r",
+                  "teaching-materials"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1200,12 +1770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Renders a Multilingual Quarto Project (Book or Website)",
+                "homepage": "https://docs.ropensci.org/babelquarto/",
                 "id": 627825077,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T14:22:33Z",
+                "open_issues": 9,
                 "owner": "ropensci-review-tools",
                 "repo": "babelquarto",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1216,12 +1791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal website",
+                "homepage": "https://ellakaye.co.uk",
                 "id": 520250622,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-07-06T18:46:43Z",
+                "open_issues": 1,
                 "owner": "EllaKaye",
                 "repo": "ellakaye.co.uk",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1232,12 +1812,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal website",
+                "homepage": "https://quantumjitter.com",
                 "id": 570199080,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2025-09-25T12:56:47Z",
+                "open_issues": 0,
                 "owner": "cgoo4",
                 "repo": "quantumjitter",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "data-science",
+                  "machine-learning",
+                  "quarto",
+                  "r",
+                  "tidymodels",
+                  "tidyverse"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1248,12 +1840,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A book that demonstrates how to perform typical table data operations using PRQL and DuckDB.",
+                "homepage": "https://eitsupi.github.io/querying-with-prql/",
                 "id": 623982709,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2025-04-02T22:45:23Z",
+                "open_issues": 2,
                 "owner": "eitsupi",
                 "repo": "querying-with-prql",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "dplyr",
+                  "duckdb",
+                  "polars",
+                  "prql",
+                  "python",
+                  "quarto",
+                  "r",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1264,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to R for Social Scientists",
+                "homepage": "https://pittmethods.github.io/r4ss",
                 "id": 517436528,
                 "language": "RMarkdown",
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-08-11T22:39:55Z",
+                "open_issues": 0,
                 "owner": "SMaRTWorkshops",
                 "repo": "r4ss",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1280,12 +1891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website for the KU Affective Communication and Computing Lab",
+                "homepage": "https://affcom.ku.edu",
                 "id": 558984094,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-13T18:22:46Z",
+                "open_issues": 0,
                 "owner": "jmgirard",
                 "repo": "affcomlab",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1296,12 +1912,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Quarto blog for Bioconductor community",
+                "homepage": "https://blog.bioconductor.org/",
                 "id": 425566572,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-21T12:17:53Z",
+                "open_issues": 7,
                 "owner": "Bioconductor",
                 "repo": "biocblog",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bioconductor",
+                  "blog",
+                  "community",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "quarto",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1312,12 +1941,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pressmark - an elegant, typographic, minimalistic theme for quarto. Inspired by newspapers and tufte-css",
+                "homepage": "http://mdwm.org/quarto-pressmark/",
                 "id": 1194139247,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2026-08-13T08:43:53Z",
+                "open_issues": 2,
                 "owner": "skriptum",
                 "repo": "quarto-pressmark",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "quarto",
+                  "ssg-theme",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1328,12 +1966,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Noah Weidig's Website",
+                "homepage": "https://noahweidig.com/",
                 "id": 1301878770,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T10:36:44Z",
+                "open_issues": 11,
                 "owner": "noahweidig",
                 "repo": "noahweidig.github.io",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "personal-website",
+                  "portfolio",
+                  "projects"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1344,12 +1991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 939090761,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2026-06-24T00:39:59Z",
+                "open_issues": 0,
                 "owner": "jatorresmunguia",
                 "repo": "juan-torresmunguia.github.io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -1367,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+                "homepage": null,
                 "id": 4844734,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T13:19:14Z",
+                "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24866
+                "stars": 24868,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1383,12 +2040,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R for data science: a book",
+                "homepage": "https://r4ds.hadley.nz/",
                 "id": 39799721,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-18T02:06:45Z",
+                "open_issues": 43,
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5143
+                "stars": 5144,
+                "topics": [
+                  "book",
+                  "bookdown",
+                  "data-science",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1399,12 +2066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building R packages",
+                "homepage": "https://r-pkgs.org",
                 "id": 22727910,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T10:45:55Z",
+                "open_issues": 44,
                 "owner": "hadley",
                 "repo": "r-pkgs",
-                "stars": 951
+                "stars": 951,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1415,12 +2087,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Online version of Bischl, B., Sonabend, R., Kotthoff, L., & Lang, M. (Eds.). (2024). \"Applied Machine Learning Using mlr3 in R\". CRC Press.",
+                "homepage": "https://mlr3book.mlr-org.com/",
                 "id": 172917699,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T10:34:10Z",
+                "open_issues": 19,
                 "owner": "mlr-org",
                 "repo": "mlr3book",
-                "stars": 282
+                "stars": 282,
+                "topics": [
+                  "book",
+                  "bookdown",
+                  "machine-learning",
+                  "mlr3",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1431,12 +2114,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website sources for Applied Machine Learning for Tabular Data",
+                "homepage": "https://aml4td.org/",
                 "id": 721268073,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:17:29Z",
+                "open_issues": 31,
                 "owner": "aml4td",
                 "repo": "website",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "classification-models",
+                  "machine-learning",
+                  "predictive-modeling",
+                  "quarto",
+                  "quartopub",
+                  "regression-models",
+                  "statistical-learning"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1447,12 +2143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "quarto for scientists",
+                "homepage": "https://qmd4sci.njtierney.com/",
                 "id": 479177202,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T07:31:50Z",
+                "open_issues": 20,
                 "owner": "njtierney",
                 "repo": "qmd4sci",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1463,12 +2164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quarto: The Definitive Guide",
+                "homepage": "https://quarto-tdg.org",
                 "id": 701096770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T06:29:16Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:00:32Z",
+                "open_issues": 11,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1479,12 +2185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://network-science-notes.github.io/",
                 "id": 830712870,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-05-05T18:19:37Z",
+                "open_issues": 2,
                 "owner": "network-science-notes",
                 "repo": "network-science-notes.github.io",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -1502,12 +2213,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for scrollytelling project using Quarto and closeread.",
+                "homepage": "https://nrennie.rbind.io/scrollytelling/",
                 "id": 844506542,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-01T17:09:03Z",
+                "open_issues": 1,
                 "owner": "nrennie",
                 "repo": "scrollytelling",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "closeread",
+                  "quarto"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             },
@@ -1518,12 +2237,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Quarto dashboard to monitor Open Source projects",
+                "homepage": "https://schochastics.github.io/gh-dashboard/",
                 "id": 759148986,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-24T08:01:15Z",
+                "open_issues": 0,
                 "owner": "schochastics",
                 "repo": "gh-dashboard",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "quarto",
+                  "quarto-dashboard"
+                ]
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
             }
@@ -1537,15 +2264,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:54:59.399Z",
+    "last_updated": "2026-08-29T04:28:42.371Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+      "homepage": null,
       "id": 519771271,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-07T09:37:08Z",
+      "open_issues": 0,
       "owner": "mcanouil",
       "repo": "awesome-quarto",
-      "stars": 2169
+      "stars": 2170,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "quarto",
+        "quarto-extension",
+        "quarto-template"
+      ]
     },
     "original_repository_sha": "8c6e0c56c35915e88de13eed0f73ac7e681b3f88",
     "enhanced_repository": "enhansome/enhansome-quarto",

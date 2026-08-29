@@ -16,8 +16,8 @@ The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, 
 
 Contributions of any kind are welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
-* Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil\&labels=\&template=suggestion.yml) ⭐ 2,169 | 🐛 0 | 📅 2026-08-07 (easier).
-* Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare) ⭐ 2,169 | 🐛 0 | 📅 2026-08-07.
+* Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil\&labels=\&template=suggestion.yml) ⭐ 2,170 | 🐛 0 | 📅 2026-08-07 (easier).
+* Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare) ⭐ 2,170 | 🐛 0 | 📅 2026-08-07.
 
 ***
 
@@ -205,20 +205,20 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Python
 
 * [quartodoc](https://github.com/machow/quartodoc) ⭐ 265 | 🐛 85 | 🌐 Python | 📅 2025-12-08 - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
-* [great-docs](https://github.com/posit-dev/great-docs) ⭐ 259 | 🐛 20 | 🌐 Python | 📅 2026-08-28 - Package from Posit that can be used to automatically generate a documentation site for a Python site, with a landing page, API reference and CLI reference, using Quarto as the rendering engine.
+* [great-docs](https://github.com/posit-dev/great-docs) ⭐ 259 | 🐛 21 | 🌐 Python | 📅 2026-08-29 - Package from Posit that can be used to automatically generate a documentation site for a Python site, with a landing page, API reference and CLI reference, using Quarto as the rendering engine.
 * [Python](https://github.com/quarto-dev/quarto-python) ⭐ 25 | 🐛 9 | 🌐 Python | 📅 2025-05-28 - Interface package for [Python](https://www.python.org/) to Quarto CLI.
 * [lintquarto](https://github.com/lintquarto/lintquarto) ⭐ 11 | 🐛 9 | 🌐 Python | 📅 2026-07-07 - Python package for running linters, static type checkers and code analysis tools on Python code in Quarto files.
 
 ### Editors
 
-* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
+* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 84 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
 * [Quarto Wingman](https://github.com/ntluong95/quarto-wingman) ⭐ 12 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-16 - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
 * [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - Snippets for RStudio and VSCode to ease typesetting with Quarto.
 
 ### Miscellaneous
 
-* [vale](https://github.com/vale-cli/vale) ⭐ 6,041 | 🐛 26 | 🌐 Go | 📅 2026-08-28 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,455 | 🐛 9 | 🌐 Rust | 📅 2026-08-28 - Markdown linter and formatter written in Rust.
+* [vale](https://github.com/vale-cli/vale) ⭐ 6,043 | 🐛 26 | 🌐 Go | 📅 2026-08-28 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,459 | 🐛 9 | 🌐 Rust | 📅 2026-08-28 - Markdown linter and formatter written in Rust.
 * [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) ⭐ 254 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-28 - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
 * [Panache](https://github.com/jolars/panache) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-08-28 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
 * [brand.yml](https://github.com/posit-dev/brand-yml) ⭐ 110 | 🐛 37 | 🌐 Python | 📅 2026-08-11 - A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, `revealjs`, and Typst formats.
@@ -293,13 +293,13 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,866 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,143 | 🐛 42 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,868 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,144 | 🐛 43 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
 * [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-28 - "R Packages" book second edition (see <https://r-pkgs.org/>).
 * [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 282 | 🐛 19 | 🌐 TeX | 📅 2026-08-25 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Applied Machine Learning for Tabular Data](https://github.com/aml4td/website) ⭐ 170 | 🐛 31 | 🌐 TeX | 📅 2026-08-26 - An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see <https://aml4td.org/>).
 * [Quarto for Scientists](https://github.com/njtierney/qmd4sci) ⭐ 70 | 🐛 20 | 🌐 TeX | 📅 2026-07-08 - A living book teaching scientists to write reproducible reports with Quarto (see <https://qmd4sci.njtierney.com/>).
-* [Quarto: The Practical Guide](https://github.com/mine-cetinkaya-rundel/quarto-tdg) ⭐ 61 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28 - A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see <https://quarto-tdg.org/>).
+* [Quarto: The Practical Guide](https://github.com/mine-cetinkaya-rundel/quarto-tdg) ⭐ 61 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-29 - A concept-first guide to Quarto by Mine Çetinkaya-Rundel and Charlotte Wickham, complementing the official reference documentation (see <https://quarto-tdg.org/>).
 * [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) ⭐ 6 | 🐛 2 | 🌐 TeX | 📅 2026-05-05 - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 * [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
 
@@ -344,8 +344,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ## Contributing
 
-Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors) ⭐ 2,169 | 🐛 0 | 📅 2026-08-07!
+Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors) ⭐ 2,170 | 🐛 0 | 📅 2026-08-07!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
