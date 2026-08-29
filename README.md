@@ -211,14 +211,14 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Editors
 
-* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 84 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
+* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
 * [Quarto Wingman](https://github.com/ntluong95/quarto-wingman) ⭐ 12 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-16 - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
 * [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - Snippets for RStudio and VSCode to ease typesetting with Quarto.
 
 ### Miscellaneous
 
 * [vale](https://github.com/vale-cli/vale) ⭐ 6,043 | 🐛 26 | 🌐 Go | 📅 2026-08-28 - Command-line tool that can be used to lint prose in Quarto markdown files, written in Go.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,459 | 🐛 9 | 🌐 Rust | 📅 2026-08-28 - Markdown linter and formatter written in Rust.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,460 | 🐛 9 | 🌐 Rust | 📅 2026-08-29 - Markdown linter and formatter written in Rust.
 * [LTeX+](https://github.com/ltex-plus/ltex-ls-plus) ⭐ 254 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-28 - A LanguageTool-based grammar and spell-checking language server with support for Quarto alongside LaTeX, Markdown, and R Markdown.
 * [Panache](https://github.com/jolars/panache) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-08-28 - A language server, formatter, and linter for Markdown, Quarto, and R Markdown, built in Rust with a lossless CST parser and support for external formatters and linters on code blocks.
 * [brand.yml](https://github.com/posit-dev/brand-yml) ⭐ 110 | 🐛 37 | 🌐 Python | 📅 2026-08-11 - A portable YAML specification with R and Python tooling for codifying brand guidelines that Quarto applies across HTML, dashboard, `revealjs`, and Typst formats.
@@ -294,8 +294,8 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 ### Book formats
 
 * [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,868 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,144 | 🐛 43 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
-* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-28 - "R Packages" book second edition (see <https://r-pkgs.org/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,145 | 🐛 43 | 🌐 R | 📅 2026-07-18 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 951 | 🐛 44 | 🌐 R | 📅 2026-08-29 - "R Packages" book second edition (see <https://r-pkgs.org/>).
 * [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 282 | 🐛 19 | 🌐 TeX | 📅 2026-08-25 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Applied Machine Learning for Tabular Data](https://github.com/aml4td/website) ⭐ 170 | 🐛 31 | 🌐 TeX | 📅 2026-08-26 - An open textbook on tabular machine learning by Max Kuhn and Kjell Johnson, keeping the core text software-agnostic and decoupled from separate computing supplements (see <https://aml4td.org/>).
 * [Quarto for Scientists](https://github.com/njtierney/qmd4sci) ⭐ 70 | 🐛 20 | 🌐 TeX | 📅 2026-07-08 - A living book teaching scientists to write reproducible reports with Quarto (see <https://qmd4sci.njtierney.com/>).
@@ -305,7 +305,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 
 ### Other formats
 
-* [Scrollytelling with Closeread](https://github.com/nrennie/scrollytelling) ⭐ 69 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-01 - A collection of scrollytelling data stories built with the Closeread extension, covering line charts, arc charts, and Gapminder-style animations (see <https://nrennie.rbind.io/scrollytelling/>).
+* [Scrollytelling with Closeread](https://github.com/nrennie/scrollytelling) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-01 - A collection of scrollytelling data stories built with the Closeread extension, covering line charts, arc charts, and Gapminder-style animations (see <https://nrennie.rbind.io/scrollytelling/>).
 * [GitHub open-source dashboard](https://github.com/schochastics/gh-dashboard) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - A Quarto dashboard monitoring the health, CRAN status, and weekly activity of a maintainer's open-source projects (see <https://schochastics.github.io/gh-dashboard/>).
 
 <!--lint disable awesome-list-item-->

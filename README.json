@@ -802,7 +802,7 @@
                 "id": 1099225867,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:27:32Z",
+                "last_commit": "2026-08-29T05:20:17Z",
                 "open_issues": 21,
                 "owner": "posit-dev",
                 "repo": "great-docs",
@@ -888,8 +888,8 @@
                 "id": 889212358,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:14:39Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T09:44:35Z",
+                "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "quarto-wizard",
                 "stars": 84,
@@ -968,11 +968,11 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:54:13Z",
+                "last_commit": "2026-08-29T09:06:33Z",
                 "open_issues": 9,
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1459,
+                "stars": 1460,
                 "topics": [
                   "cli",
                   "developer-tools",
@@ -2049,7 +2049,7 @@
                 "open_issues": 43,
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5144,
+                "stars": 5145,
                 "topics": [
                   "book",
                   "bookdown",
@@ -2071,7 +2071,7 @@
                 "id": 22727910,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T10:45:55Z",
+                "last_commit": "2026-08-29T07:25:23Z",
                 "open_issues": 44,
                 "owner": "hadley",
                 "repo": "r-pkgs",
@@ -2222,7 +2222,7 @@
                 "open_issues": 1,
                 "owner": "nrennie",
                 "repo": "scrollytelling",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "closeread",
                   "quarto"
@@ -2264,7 +2264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:42.371Z",
+    "last_updated": "2026-08-29T11:20:21.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
