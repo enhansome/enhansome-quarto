@@ -5,66 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Filling a suggestion issue",
-          "description": "(easier).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
-            "homepage": null,
-            "id": 519771271,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-10T14:41:35Z",
-            "open_issues": 0,
-            "owner": "mcanouil",
-            "repo": "awesome-quarto",
-            "stars": 2181,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "quarto",
-              "quarto-extension",
-              "quarto-template"
-            ]
-          },
-          "first_seen": "2026-08-28T16:54:59.399Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Opening a pull request",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
-            "homepage": null,
-            "id": 519771271,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-10T14:41:35Z",
-            "open_issues": 0,
-            "owner": "mcanouil",
-            "repo": "awesome-quarto",
-            "stars": 2181,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "quarto",
-              "quarto-extension",
-              "quarto-template"
-            ]
-          },
-          "first_seen": "2026-08-28T16:54:59.399Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "Tutorial: Customizing Quarto Websites - Make your website stand out using SASS & CSS",
           "description": "Slides by Samantha Csik about using SASS and CSS to customise HTML Quarto websites (materials: https://github.com/UCSB-MEDS/customizing-quarto-websites).",
           "children": [],
@@ -204,7 +144,7 @@
             "open_issues": 187,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5319,
+            "stars": 5318,
             "topics": [
               "conda",
               "developer-tools",
@@ -947,7 +887,7 @@
                 "open_issues": 14,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6184,
+                "stars": 6189,
                 "topics": [
                   "linter",
                   "linting",
@@ -968,7 +908,7 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:11:01Z",
+                "last_commit": "2026-10-02T11:57:49Z",
                 "open_issues": 28,
                 "owner": "rvben",
                 "repo": "rumdl",
@@ -1035,7 +975,7 @@
                 "id": 1049639719,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:37:54Z",
+                "last_commit": "2026-10-02T12:42:36Z",
                 "open_issues": 5,
                 "owner": "jolars",
                 "repo": "panache",
@@ -1195,7 +1135,7 @@
             "id": 1101373353,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-28T19:57:21Z",
+            "last_commit": "2026-10-02T21:01:48Z",
             "open_issues": 19,
             "owner": "posit-dev",
             "repo": "skills",
@@ -1417,7 +1357,7 @@
                 "open_issues": 1,
                 "owner": "meghall06",
                 "repo": "personal-website",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1659,8 +1599,8 @@
                 "id": 347633358,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T21:48:04Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-02T19:59:22Z",
+                "open_issues": 37,
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 405,
@@ -1817,7 +1757,7 @@
                 "id": 570199080,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:17:10Z",
+                "last_commit": "2026-10-02T18:52:22Z",
                 "open_issues": 0,
                 "owner": "cgoo4",
                 "repo": "quantumjitter",
@@ -2003,7 +1943,7 @@
                 "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 24986,
+                "stars": 24992,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -2144,8 +2084,8 @@
                 "id": 701096770,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T01:57:41Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-03T01:55:05Z",
+                "open_issues": 12,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
                 "stars": 62,
@@ -2239,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:43:21.870Z",
+    "last_updated": "2026-10-03T05:07:55.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
