@@ -140,11 +140,11 @@
             "id": 222507066,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T20:50:23Z",
+            "last_commit": "2026-10-11T07:02:09Z",
             "open_issues": 187,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5317,
+            "stars": 5318,
             "topics": [
               "conda",
               "developer-tools",
@@ -278,7 +278,7 @@
             "open_issues": 404,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 651,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -299,7 +299,7 @@
             "open_issues": 404,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 651,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -320,7 +320,7 @@
             "open_issues": 6,
             "owner": "quarto-dev",
             "repo": "quarto-nvim",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -725,7 +725,7 @@
                 "open_issues": 24,
                 "owner": "posit-dev",
                 "repo": "great-docs",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "authoring-tools",
                   "documentation",
@@ -752,7 +752,7 @@
                 "open_issues": 85,
                 "owner": "machow",
                 "repo": "quartodoc",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -887,7 +887,7 @@
                 "open_issues": 16,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6223,
+                "stars": 6229,
                 "topics": [
                   "linter",
                   "linting",
@@ -908,11 +908,11 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-09T20:26:28Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-10T19:34:23Z",
+                "open_issues": 33,
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1562,
+                "stars": 1566,
                 "topics": [
                   "cli",
                   "developer-tools",
@@ -937,7 +937,7 @@
                 "language": "Kotlin",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-10T09:25:05Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "ltex-plus",
                 "repo": "ltex-ls-plus",
                 "stars": 259,
@@ -975,11 +975,11 @@
                 "id": 1049639719,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-09T11:35:27Z",
+                "last_commit": "2026-10-10T18:51:42Z",
                 "open_issues": 5,
                 "owner": "jolars",
                 "repo": "panache",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "commonmark",
                   "formatter",
@@ -1139,7 +1139,7 @@
             "open_issues": 17,
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "claude-code",
               "claude-code-plugin",
@@ -1600,10 +1600,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T18:56:38Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "documentation",
                   "quarto"
@@ -1836,11 +1836,11 @@
                 "id": 558984094,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-30T17:51:40Z",
+                "last_commit": "2026-10-10T17:48:11Z",
                 "open_issues": 0,
                 "owner": "jmgirard",
                 "repo": "affcomlab",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1943,7 +1943,7 @@
                 "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 25007,
+                "stars": 25011,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1986,7 +1986,7 @@
                 "id": 22727910,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T07:33:07Z",
+                "last_commit": "2026-10-11T07:33:31Z",
                 "open_issues": 65,
                 "owner": "hadley",
                 "repo": "r-pkgs",
@@ -2007,7 +2007,7 @@
                 "id": 172917699,
                 "language": "TeX",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T13:21:30Z",
+                "last_commit": "2026-10-10T14:36:22Z",
                 "open_issues": 19,
                 "owner": "mlr-org",
                 "repo": "mlr3book",
@@ -2084,7 +2084,7 @@
                 "id": 701096770,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-10T02:02:54Z",
+                "last_commit": "2026-10-11T01:32:19Z",
                 "open_issues": 12,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:47:39.183Z",
+    "last_updated": "2026-10-11T11:00:18.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
@@ -2188,7 +2188,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-10T14:41:35Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "mcanouil",
       "repo": "awesome-quarto",
       "stars": 2184,
