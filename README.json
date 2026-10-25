@@ -140,11 +140,11 @@
             "id": 222507066,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T09:15:49Z",
+            "last_commit": "2026-10-25T02:36:25Z",
             "open_issues": 187,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5322,
+            "stars": 5323,
             "topics": [
               "conda",
               "developer-tools",
@@ -278,7 +278,7 @@
             "open_issues": 396,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 656,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -299,7 +299,7 @@
             "open_issues": 396,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 656,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -722,7 +722,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:09:10Z",
-                "open_issues": 20,
+                "open_issues": 23,
                 "owner": "posit-dev",
                 "repo": "great-docs",
                 "stars": 270,
@@ -883,11 +883,11 @@
                 "id": 81020247,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-22T20:38:14Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-24T15:57:44Z",
+                "open_issues": 20,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6283,
+                "stars": 6285,
                 "topics": [
                   "linter",
                   "linting",
@@ -908,11 +908,11 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T10:17:55Z",
+                "last_commit": "2026-10-24T14:32:24Z",
                 "open_issues": 18,
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1604,
+                "stars": 1606,
                 "topics": [
                   "cli",
                   "developer-tools",
@@ -1600,7 +1600,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T17:56:06Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "quarto-dev",
                 "repo": "quarto-web",
                 "stars": 407,
@@ -1836,7 +1836,7 @@
                 "id": 558984094,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-16T07:42:19Z",
+                "last_commit": "2026-10-24T16:36:57Z",
                 "open_issues": 0,
                 "owner": "jmgirard",
                 "repo": "affcomlab",
@@ -1943,7 +1943,7 @@
                 "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 25044,
+                "stars": 25048,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1964,7 +1964,7 @@
                 "open_issues": 44,
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5184,
+                "stars": 5186,
                 "topics": [
                   "book",
                   "bookdown",
@@ -1986,11 +1986,11 @@
                 "id": 22727910,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T07:27:51Z",
+                "last_commit": "2026-10-25T07:28:34Z",
                 "open_issues": 65,
                 "owner": "hadley",
                 "repo": "r-pkgs",
-                "stars": 955,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -2084,7 +2084,7 @@
                 "id": 701096770,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-24T01:20:53Z",
+                "last_commit": "2026-10-25T00:46:38Z",
                 "open_issues": 13,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:06:15.178Z",
+    "last_updated": "2026-10-25T09:23:35.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
