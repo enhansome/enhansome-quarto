@@ -144,7 +144,7 @@
             "open_issues": 187,
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5325,
+            "stars": 5324,
             "topics": [
               "conda",
               "developer-tools",
@@ -278,7 +278,7 @@
             "open_issues": 394,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 663,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -299,7 +299,7 @@
             "open_issues": 394,
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 663,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:59.399Z"
@@ -535,8 +535,8 @@
                 "stars": 62,
                 "topics": [
                   "quarto",
-                  "rstats",
-                  "rstats-package",
+                  "r",
+                  "r-package",
                   "rstudio-addin"
                 ]
               },
@@ -648,8 +648,8 @@
                 "id": 739423552,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-14T00:24:20Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-15T00:27:05Z",
+                "open_issues": 20,
                 "owner": "PumasAI",
                 "repo": "QuartoNotebookRunner.jl",
                 "stars": 108,
@@ -887,7 +887,7 @@
                 "open_issues": 19,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6387,
+                "stars": 6390,
                 "topics": [
                   "linter",
                   "linting",
@@ -908,8 +908,8 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T20:37:05Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-14T11:45:40Z",
+                "open_issues": 12,
                 "owner": "rvben",
                 "repo": "rumdl",
                 "stars": 1666,
@@ -975,8 +975,8 @@
                 "id": 1049639719,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-13T22:33:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-14T14:52:27Z",
+                "open_issues": 4,
                 "owner": "jolars",
                 "repo": "panache",
                 "stars": 247,
@@ -1571,8 +1571,8 @@
                 "id": 402182460,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:13:15Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T22:29:42Z",
+                "open_issues": 3,
                 "owner": "aeturrell",
                 "repo": "skimpy",
                 "stars": 517,
@@ -1943,7 +1943,7 @@
                 "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 25096,
+                "stars": 25099,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1964,7 +1964,7 @@
                 "open_issues": 45,
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5198,
+                "stars": 5199,
                 "topics": [
                   "book",
                   "bookdown",
@@ -1986,7 +1986,7 @@
                 "id": 22727910,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T07:20:01Z",
+                "last_commit": "2026-11-15T07:18:48Z",
                 "open_issues": 65,
                 "owner": "hadley",
                 "repo": "r-pkgs",
@@ -2034,7 +2034,7 @@
                 "id": 721268073,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T18:53:18Z",
+                "last_commit": "2026-11-15T01:48:42Z",
                 "open_issues": 29,
                 "owner": "aml4td",
                 "repo": "website",
@@ -2084,7 +2084,7 @@
                 "id": 701096770,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-14T02:53:47Z",
+                "last_commit": "2026-11-15T02:21:31Z",
                 "open_issues": 20,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
@@ -2179,7 +2179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:44:25.582Z",
+    "last_updated": "2026-11-15T12:14:31.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
