@@ -275,7 +275,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-19T16:35:15Z",
-            "open_issues": 403,
+            "open_issues": 404,
             "owner": "quarto-dev",
             "repo": "quarto",
             "stars": 665,
@@ -296,7 +296,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-19T16:35:15Z",
-            "open_issues": 403,
+            "open_issues": 404,
             "owner": "quarto-dev",
             "repo": "quarto",
             "stars": 665,
@@ -469,7 +469,7 @@
                 "open_issues": 42,
                 "owner": "quarto-dev",
                 "repo": "quarto-r",
-                "stars": 160,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -884,11 +884,11 @@
                 "id": 81020247,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-20T22:20:40Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-21T19:51:06Z",
+                "open_issues": 12,
                 "owner": "vale-cli",
                 "repo": "vale",
-                "stars": 6414,
+                "stars": 6418,
                 "topics": [
                   "linter",
                   "linting",
@@ -909,11 +909,11 @@
                 "id": 940812004,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T22:50:06Z",
+                "last_commit": "2026-11-21T23:12:39Z",
                 "open_issues": 15,
                 "owner": "rvben",
                 "repo": "rumdl",
-                "stars": 1690,
+                "stars": 1694,
                 "topics": [
                   "cli",
                   "developer-tools",
@@ -1140,7 +1140,7 @@
             "open_issues": 18,
             "owner": "posit-dev",
             "repo": "skills",
-            "stars": 572,
+            "stars": 574,
             "topics": [
               "claude-code",
               "claude-code-plugin",
@@ -1944,7 +1944,7 @@
                 "open_issues": 31,
                 "owner": "wesm",
                 "repo": "pydata-book",
-                "stars": 25112,
+                "stars": 25115,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:59.399Z"
@@ -1965,7 +1965,7 @@
                 "open_issues": 46,
                 "owner": "hadley",
                 "repo": "r4ds",
-                "stars": 5206,
+                "stars": 5210,
                 "topics": [
                   "book",
                   "bookdown",
@@ -1987,7 +1987,7 @@
                 "id": 22727910,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T07:19:34Z",
+                "last_commit": "2026-11-22T07:19:23Z",
                 "open_issues": 65,
                 "owner": "hadley",
                 "repo": "r-pkgs",
@@ -2039,7 +2039,7 @@
                 "open_issues": 29,
                 "owner": "aml4td",
                 "repo": "website",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "classification-models",
                   "machine-learning",
@@ -2085,7 +2085,7 @@
                 "id": 701096770,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-21T03:43:55Z",
+                "last_commit": "2026-11-22T02:48:06Z",
                 "open_issues": 29,
                 "owner": "mine-cetinkaya-rundel",
                 "repo": "quarto-tdg",
@@ -2180,7 +2180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:59:20.843Z",
+    "last_updated": "2026-11-22T12:50:51.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
